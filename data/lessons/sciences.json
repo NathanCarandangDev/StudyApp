@@ -1,0 +1,63 @@
+{
+  "title": "Sciences Fundamentals",
+  "description": "Review key concepts in biology, chemistry, and physics.",
+  "sections": [
+    {
+      "heading": "Cell Biology",
+      "content": "Cells are the basic units of life. Key organelles include the nucleus (controls cell activities), mitochondria (produces energy), ribosomes (makes proteins), and cell membrane (controls what enters/exits). Plant cells also have chloroplasts for photosynthesis."
+    },
+    {
+      "heading": "Photosynthesis",
+      "content": "Photosynthesis converts light energy into chemical energy. The equation: 6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂. Plants absorb CO₂ and water, using sunlight to produce glucose and oxygen."
+    },
+    {
+      "heading": "Atomic Structure",
+      "content": "Atoms consist of protons (positive), neutrons (neutral), and electrons (negative). The atomic number equals the number of protons. Elements are arranged in the periodic table by atomic number."
+    },
+    {
+      "heading": "Newton's Laws of Motion",
+      "content": "First Law: An object at rest stays at rest unless acted upon by a force. Second Law: F = ma. Third Law: For every action, there is an equal and opposite reaction."
+    },
+    {
+      "heading": "States of Matter",
+      "content": "Matter exists in three main states: solid (fixed shape and volume), liquid (fixed volume, takes container shape), and gas (no fixed shape or volume). Phase changes occur with temperature changes."
+    }
+  ],
+  "practice_questions": [
+    {
+      "id": "sci_prac_001",
+      "question": "What organelle produces energy in a cell?",
+      "choices": ["Nucleus", "Mitochondria", "Ribosome", "Cell membrane"],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria are the 'powerhouses' of the cell, producing ATP energy."
+    },
+    {
+      "id": "sci_prac_002",
+      "question": "What gas do plants release during photosynthesis?",
+      "choices": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "answer": "Oxygen",
+      "explanation": "Photosynthesis produces glucose and releases oxygen as a byproduct."
+    },
+    {
+      "id": "sci_prac_003",
+      "question": "What particle has a positive charge?",
+      "choices": ["Electron", "Neutron", "Proton", "Photon"],
+      "answer": "Proton",
+      "explanation": "Protons carry a positive electric charge in the atomic nucleus."
+    },
+    {
+      "id": "sci_prac_004",
+      "question": "What is Newton's Second Law?",
+      "choices": ["F = ma", "E = mc²", "V = IR", "P = mv"],
+      "answer": "F = ma",
+      "explanation": "Newton's Second Law: Force equals mass times acceleration."
+    },
+    {
+      "id": "sci_prac_005",
+      "question": "Which state of matter has no fixed shape or volume?",
+      "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+      "answer": "Gas",
+      "explanation": "Gases expand to fill their container, having no fixed shape or volume."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "log_beg_001",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "All dogs are animals. All animals have hearts. Therefore, all dogs have hearts. Is this valid?",
+    "choices": ["Yes", "No", "Maybe", "Cannot tell"],
+    "answer": "Yes",
+    "explanation": "This is a valid syllogism. If all dogs are animals and all animals have hearts, then all dogs must have hearts."
+  },
+  {
+    "id": "log_beg_002",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "If it rains, the ground gets wet. The ground is wet. Did it rain?",
+    "choices": ["Yes, definitely", "No, definitely not", "Not necessarily", "Impossible to say"],
+    "answer": "Not necessarily",
+    "explanation": "The ground could be wet for other reasons (sprinklers, spilled water). This is the fallacy of affirming the consequent."
+  },
+  {
+    "id": "log_beg_003",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "What comes next: A, C, E, G, ___?",
+    "choices": ["H", "I", "J", "K"],
+    "answer": "I",
+    "explanation": "Each letter skips one: A(+2)C(+2)E(+2)G(+2)I."
+  },
+  {
+    "id": "log_beg_004",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "If all cats meow and Fluffy is a cat, does Fluffy meow?",
+    "choices": ["Yes", "No", "Maybe", "Not enough info"],
+    "answer": "Yes",
+    "explanation": "This is a valid deductive argument. If all cats meow and Fluffy is a cat, Fluffy must meow."
+  },
+  {
+    "id": "log_beg_005",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "Which shape comes next: Circle, Square, Circle, Square, ___?",
+    "choices": ["Circle", "Square", "Triangle", "Rectangle"],
+    "answer": "Circle",
+    "explanation": "The pattern alternates: Circle, Square, Circle, Square, Circle."
+  },
+  {
+    "id": "log_beg_006",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "Some birds can fly. Penguins are birds. Can penguins fly?",
+    "choices": ["Yes", "No", "Not necessarily", "All birds fly"],
+    "answer": "Not necessarily",
+    "explanation": "'Some birds can fly' does not mean all birds can fly. Penguins are a well-known exception."
+  },
+  {
+    "id": "log_beg_007",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "If A > B and B > C, then A > C. Is this always true?",
+    "choices": ["Yes", "No", "Only sometimes", "Depends on the values"],
+    "answer": "Yes",
+    "explanation": "This is the transitive property of inequality. If A > B and B > C, then A > C always."
+  },
+  {
+    "id": "log_beg_008",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "What comes next: Z, Y, X, W, ___?",
+    "choices": ["T", "U", "V", "S"],
+    "answer": "V",
+    "explanation": "The alphabet is going backwards: Z, Y, X, W, V."
+  },
+  {
+    "id": "log_beg_009",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "If you study hard, you will pass. You studied hard. Will you pass?",
+    "choices": ["Yes", "No", "Maybe", "Not enough info"],
+    "answer": "Yes",
+    "explanation": "This is modus ponens: If P then Q. P is true. Therefore Q is true."
+  },
+  {
+    "id": "log_beg_010",
+    "type": "Logical",
+    "difficulty": "Beginner",
+    "question": "Which does not belong: apple, banana, carrot, grape?",
+    "choices": ["Apple", "Banana", "Carrot", "Grape"],
+    "answer": "Carrot",
+    "explanation": "Apple, banana, and grape are fruits. Carrot is a vegetable."
+  }
+]

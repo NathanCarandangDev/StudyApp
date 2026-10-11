@@ -1,0 +1,92 @@
+[
+  {
+    "id": "spa_int_001",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "How many cubes are needed to build a 3×3×3 hollow cube (only the outer layer)?",
+    "choices": ["18", "24", "26", "27"],
+    "answer": "26",
+    "explanation": "A 3×3×3 cube has 27 cubes total. The inner 1×1×1 = 1 cube is hollow. 27 - 1 = 26."
+  },
+  {
+    "id": "spa_int_002",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "If you cut a cube in half diagonally, what shape is the cross-section?",
+    "choices": ["Square", "Rectangle", "Triangle", "Circle"],
+    "answer": "Rectangle",
+    "explanation": "Cutting a cube diagonally from one edge to the opposite edge creates a rectangular cross-section."
+  },
+  {
+    "id": "spa_int_003",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "A cube is painted red on all sides, then cut into 27 smaller cubes. How many small cubes have exactly 2 red faces?",
+    "choices": ["6", "8", "12", "18"],
+    "answer": "12",
+    "explanation": "The cubes with exactly 2 red faces are on the edges (not corners). A cube has 12 edges, each with 1 such cube in a 3×3×3 arrangement."
+  },
+  {
+    "id": "spa_int_004",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "If you fold a cross-shaped net into a cube, which face is opposite the top?",
+    "choices": ["Bottom", "Left", "Right", "Front"],
+    "answer": "Bottom",
+    "explanation": "In a standard cube net, the top and bottom faces are opposite each other."
+  },
+  {
+    "id": "spa_int_005",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "How many triangles are in a Star of David?",
+    "choices": ["2", "4", "6", "8"],
+    "answer": "8",
+    "explanation": "A Star of David has 2 large overlapping triangles plus 6 small triangles at the points = 8 triangles."
+  },
+  {
+    "id": "spa_int_006",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "If you rotate the letter 'N' 180 degrees, what letter does it look like?",
+    "choices": ["N", "Z", "U", "M"],
+    "answer": "N",
+    "explanation": "The letter N has rotational symmetry of 180 degrees — it looks the same when rotated."
+  },
+  {
+    "id": "spa_int_007",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "A room is 10ft × 10ft. How many 2ft × 2ft tiles are needed to cover the floor?",
+    "choices": ["10", "20", "25", "50"],
+    "answer": "25",
+    "explanation": "Room area = 100 sq ft. Each tile = 4 sq ft. 100 / 4 = 25 tiles."
+  },
+  {
+    "id": "spa_int_008",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "How many vertices does a tetrahedron have?",
+    "choices": ["3", "4", "6", "8"],
+    "answer": "4",
+    "explanation": "A tetrahedron is a triangular pyramid with 4 vertices (corners)."
+  },
+  {
+    "id": "spa_int_009",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "If you mirror the letter 'b' horizontally, what letter do you get?",
+    "choices": ["b", "d", "p", "q"],
+    "answer": "d",
+    "explanation": "Mirroring 'b' horizontally (left-right flip) produces 'd'."
+  },
+  {
+    "id": "spa_int_010",
+    "type": "Spatial",
+    "difficulty": "Intermediate",
+    "question": "How many diagonals does a hexagon have?",
+    "choices": ["6", "8", "9", "12"],
+    "answer": "9",
+    "explanation": "A hexagon has n(n-3)/2 = 6(3)/2 = 9 diagonals."
+  }
+]

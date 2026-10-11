@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vrb_int_001",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "Which word is closest in meaning to 'meticulous'?",
+    "choices": ["Careless", "Thorough", "Quick", "Lazy"],
+    "answer": "Thorough",
+    "explanation": "Meticulous means showing great attention to detail; very careful and precise, which is closest to thorough."
+  },
+  {
+    "id": "vrb_int_002",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "Complete: Book is to Reading as Fork is to ___",
+    "choices": ["Drawing", "Eating", "Writing", "Cooking"],
+    "answer": "Eating",
+    "explanation": "A book is used for reading; a fork is used for eating."
+  },
+  {
+    "id": "vrb_int_003",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "What does 'ubiquitous' mean?",
+    "choices": ["Rare", "Found everywhere", "Expensive", "Dangerous"],
+    "answer": "Found everywhere",
+    "explanation": "Ubiquitous means present, appearing, or found everywhere."
+  },
+  {
+    "id": "vrb_int_004",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "Which sentence uses the word 'affect' correctly?",
+    "choices": ["The affect was noticeable", "The weather will affect the game", "He has a strange affect", "She made a good affect"],
+    "answer": "The weather will affect the game",
+    "explanation": "'Affect' is most commonly used as a verb meaning to influence. The weather will influence the game."
+  },
+  {
+    "id": "vrb_int_005",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "What is the meaning of the idiom 'bite the bullet'?",
+    "choices": ["Eat quickly", "Face a difficult situation bravely", "Get hurt", "Give up"],
+    "answer": "Face a difficult situation bravely",
+    "explanation": "'Bite the bullet' means to endure a painful or difficult situation with courage."
+  },
+  {
+    "id": "vrb_int_006",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "Which word is an antonym of 'abundant'?",
+    "choices": ["Plentiful", "Scarce", "Ample", "Copious"],
+    "answer": "Scarce",
+    "explanation": "Scarce means insufficient for demand, the opposite of abundant (plentiful)."
+  },
+  {
+    "id": "vrb_int_007",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "In the sentence 'The cat sat on the mat,' what is the subject?",
+    "choices": ["Sat", "The cat", "On the mat", "The mat"],
+    "answer": "The cat",
+    "explanation": "The subject is who or what the sentence is about. 'The cat' is the subject performing the action."
+  },
+  {
+    "id": "vrb_int_008",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "What does 'pragmatic' mean?",
+    "choices": ["Idealistic", "Practical", "Emotional", "Theoretical"],
+    "answer": "Practical",
+    "explanation": "Pragmatic means dealing with things sensibly and realistically, in a practical way."
+  },
+  {
+    "id": "vrb_int_009",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "Which word does not belong: eloquent, articulate, verbose, taciturn?",
+    "choices": ["Eloquent", "Articulate", "Verbose", "Taciturn"],
+    "answer": "Taciturn",
+    "explanation": "Eloquent, articulate, and verbose all relate to speaking well or at length. Taciturn means reserved or uncommunicative in speech."
+  },
+  {
+    "id": "vrb_int_010",
+    "type": "Verbal",
+    "difficulty": "Intermediate",
+    "question": "What is the root meaning of the prefix 'bene-'?",
+    "choices": ["Bad", "Good", "Before", "Beyond"],
+    "answer": "Good",
+    "explanation": "The prefix 'bene-' comes from Latin meaning 'good' or 'well,' as in benevolent (well-meaning)."
+  }
+]

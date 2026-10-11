@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nurs_001",
+    "type": "Patient Care",
+    "difficulty": "Medium",
+    "question": "A patient is experiencing difficulty breathing. What is the first action you should take?",
+    "choices": ["Administer oxygen", "Check vital signs", "Elevate the head of the bed", "Call the physician"],
+    "answer": "Check vital signs",
+    "explanation": "Assessing vital signs is the first step in the nursing process (Assessment before Intervention)."
+  },
+  {
+    "id": "nurs_002",
+    "type": "Pharmacology",
+    "difficulty": "Medium",
+    "question": "Which medication is commonly used to treat hypertension?",
+    "choices": ["Insulin", "Lisinopril", "Amoxicillin", "Ibuprofen"],
+    "answer": "Lisinopril",
+    "explanation": "Lisinopril is an ACE inhibitor commonly prescribed for high blood pressure."
+  },
+  {
+    "id": "nurs_003",
+    "type": "Anatomy",
+    "difficulty": "Medium",
+    "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+    "choices": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+    "answer": "Left ventricle",
+    "explanation": "The left ventricle pumps oxygenated blood through the aorta to the rest of the body."
+  },
+  {
+    "id": "nurs_004",
+    "type": "Patient Care",
+    "difficulty": "Medium",
+    "question": "What is the normal range for adult body temperature in Fahrenheit?",
+    "choices": ["95-97°F", "97-99°F", "99-101°F", "101-103°F"],
+    "answer": "97-99°F",
+    "explanation": "Normal adult body temperature ranges from approximately 97°F to 99°F (36.1°C to 37.2°C)."
+  },
+  {
+    "id": "nurs_005",
+    "type": "Pharmacology",
+    "difficulty": "Medium",
+    "question": "What is the most common side effect of opioid medications?",
+    "choices": ["Insomnia", "Constipation", "Diarrhea", "Tachycardia"],
+    "answer": "Constipation",
+    "explanation": "Constipation is the most common side effect of opioids due to decreased gastrointestinal motility."
+  },
+  {
+    "id": "nurs_006",
+    "type": "Patient Care",
+    "difficulty": "Hard",
+    "question": "A patient with diabetes has a blood glucose level of 45 mg/dL. What is the priority intervention?",
+    "choices": ["Administer insulin", "Give oral glucose", "Monitor and wait", "Call the physician"],
+    "answer": "Give oral glucose",
+    "explanation": "A blood glucose of 45 mg/dL indicates severe hypoglycemia. Immediate oral glucose is the priority if the patient is conscious."
+  },
+  {
+    "id": "nurs_007",
+    "type": "Anatomy",
+    "difficulty": "Medium",
+    "question": "Which organ is responsible for filtering blood and producing urine?",
+    "choices": ["Liver", "Heart", "Kidneys", "Lungs"],
+    "answer": "Kidneys",
+    "explanation": "The kidneys filter blood, remove waste products, and produce urine."
+  },
+  {
+    "id": "nurs_008",
+    "type": "Patient Care",
+    "difficulty": "Medium",
+    "question": "What does the acronym 'SBAR' stand for in nursing communication?",
+    "choices": ["Situation, Background, Assessment, Recommendation", "Safety, Behavior, Action, Response", "Symptoms, Background, Analysis, Report", "Status, Background, Action, Resolution"],
+    "answer": "Situation, Background, Assessment, Recommendation",
+    "explanation": "SBAR is a standardized communication framework used in healthcare for clear, concise handoffs."
+  },
+  {
+    "id": "nurs_009",
+    "type": "Pharmacology",
+    "difficulty": "Hard",
+    "question": "Which drug class should be used with caution in patients with asthma?",
+    "choices": ["Beta-blockers", "ACE inhibitors", "Statins", "Antibiotics"],
+    "answer": "Beta-blockers",
+    "explanation": "Beta-blockers can cause bronchoconstriction and should be used cautiously in asthmatic patients."
+  },
+  {
+    "id": "nurs_010",
+    "type": "Patient Care",
+    "difficulty": "Hard",
+    "question": "What is the most important nursing action when a patient shows signs of an allergic reaction?",
+    "choices": ["Document the reaction", "Administer epinephrine if anaphylaxis", "Give antihistamines", "Monitor vital signs"],
+    "answer": "Administer epinephrine if anaphylaxis",
+    "explanation": "Epinephrine is the first-line treatment for anaphylaxis, a life-threatening allergic reaction."
+  }
+]

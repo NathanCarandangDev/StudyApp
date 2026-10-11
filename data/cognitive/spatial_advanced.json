@@ -1,0 +1,92 @@
+[
+  {
+    "id": "spa_adv_001",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "How many planes of symmetry does a cube have?",
+    "choices": ["3", "6", "9", "12"],
+    "answer": "9",
+    "explanation": "A cube has 9 planes of symmetry: 3 parallel to faces and 6 diagonal planes."
+  },
+  {
+    "id": "spa_adv_002",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "If you fold a piece of paper 10 times, how many layers would you have?",
+    "choices": ["512", "1024", "2048", "4096"],
+    "answer": "1024",
+    "explanation": "Each fold doubles the layers: 2^10 = 1024 layers."
+  },
+  {
+    "id": "spa_adv_003",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "A 4D hypercube (tesseract) has how many vertices?",
+    "choices": ["8", "12", "16", "32"],
+    "answer": "16",
+    "explanation": "A tesseract has 2^4 = 16 vertices, just as a cube has 2^3 = 8 vertices."
+  },
+  {
+    "id": "spa_adv_004",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "If you rotate a rectangle 360 degrees around its long axis, what 3D shape is formed?",
+    "choices": ["Cone", "Cylinder", "Sphere", "Torus"],
+    "answer": "Cylinder",
+    "explanation": "Rotating a rectangle around one of its axes creates a cylinder."
+  },
+  {
+    "id": "spa_adv_005",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "How many different ways can you color the faces of a cube with 6 different colors (one per face), considering rotations?",
+    "choices": ["60", "120", "240", "720"],
+    "answer": "30",
+    "explanation": "There are 6! = 720 total colorings, but 24 rotations of a cube. 720/24 = 30 distinct colorings."
+  },
+  {
+    "id": "spa_adv_006",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "What is the maximum number of pieces you can get by cutting a cube with 3 straight cuts?",
+    "choices": ["6", "8", "10", "12"],
+    "answer": "8",
+    "explanation": "Three perpendicular cuts (x, y, z planes) divide a cube into 2×2×2 = 8 pieces."
+  },
+  {
+    "id": "spa_adv_007",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "A sphere, a cube, and a cylinder all have the same surface area. Which has the largest volume?",
+    "choices": ["Cube", "Cylinder", "Sphere", "All equal"],
+    "answer": "Sphere",
+    "explanation": "For a given surface area, the sphere encloses the maximum volume (isoperimetric inequality)."
+  },
+  {
+    "id": "spa_adv_008",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "How many edges does an icosahedron have?",
+    "choices": ["20", "30", "40", "60"],
+    "answer": "30",
+    "explanation": "An icosahedron has 20 triangular faces, 12 vertices, and 30 edges (Euler's formula: V - E + F = 2)."
+  },
+  {
+    "id": "spa_adv_009",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "If you unfold a tetrahedron, how many triangles are in its net?",
+    "choices": ["2", "3", "4", "6"],
+    "answer": "4",
+    "explanation": "A tetrahedron has 4 triangular faces. Its net consists of all 4 triangles connected edge-to-edge."
+  },
+  {
+    "id": "spa_adv_010",
+    "type": "Spatial",
+    "difficulty": "Advanced",
+    "question": "What shape is formed when a plane cuts through a cone parallel to its base?",
+    "choices": ["Ellipse", "Parabola", "Circle", "Hyperbola"],
+    "answer": "Circle",
+    "explanation": "A plane parallel to the base of a cone creates a circular cross-section."
+  }
+]

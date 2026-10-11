@@ -1,0 +1,92 @@
+[
+  {
+    "id": "teach_001",
+    "type": "Pedagogy",
+    "difficulty": "Medium",
+    "question": "Which learning theory emphasizes learning through observation and imitation?",
+    "choices": ["Behaviorism", "Constructivism", "Social Learning Theory", "Cognitivism"],
+    "answer": "Social Learning Theory",
+    "explanation": "Bandura's Social Learning Theory emphasizes learning through observation, imitation, and modeling."
+  },
+  {
+    "id": "teach_002",
+    "type": "Child Development",
+    "difficulty": "Medium",
+    "question": "According to Piaget, what stage of cognitive development occurs from ages 7-11?",
+    "choices": ["Sensorimotor", "Preoperational", "Concrete Operational", "Formal Operational"],
+    "answer": "Concrete Operational",
+    "explanation": "The Concrete Operational stage (ages 7-11) is characterized by logical thinking about concrete events."
+  },
+  {
+    "id": "teach_003",
+    "type": "Pedagogy",
+    "difficulty": "Medium",
+    "question": "What is formative assessment?",
+    "choices": ["A final exam", "Ongoing assessment to guide instruction", "A standardized test", "A placement test"],
+    "answer": "Ongoing assessment to guide instruction",
+    "explanation": "Formative assessment occurs during instruction to monitor learning and guide teaching adjustments."
+  },
+  {
+    "id": "teach_004",
+    "type": "Child Development",
+    "difficulty": "Medium",
+    "question": "Which theorist proposed stages of moral development?",
+    "choices": ["Erik Erikson", "Jean Piaget", "Lawrence Kohlberg", "Lev Vygotsky"],
+    "answer": "Lawrence Kohlberg",
+    "explanation": "Kohlberg proposed three levels of moral development: pre-conventional, conventional, and post-conventional."
+  },
+  {
+    "id": "teach_005",
+    "type": "Pedagogy",
+    "difficulty": "Hard",
+    "question": "What is the Zone of Proximal Development (ZPD)?",
+    "choices": ["The area where students are bored", "What a learner can do with help but not alone", "The testing zone", "The comfort zone"],
+    "answer": "What a learner can do with help but not alone",
+    "explanation": "Vygotsky's ZPD is the gap between what a learner can do independently and what they can achieve with guidance."
+  },
+  {
+    "id": "teach_006",
+    "type": "Subject Matter",
+    "difficulty": "Medium",
+    "question": "Which teaching strategy best supports diverse learners?",
+    "choices": ["Lecture only", "Differentiated instruction", "Standardized testing", "Rote memorization"],
+    "answer": "Differentiated instruction",
+    "explanation": "Differentiated instruction tailors teaching methods to meet diverse student needs and learning styles."
+  },
+  {
+    "id": "teach_007",
+    "type": "Pedagogy",
+    "difficulty": "Medium",
+    "question": "What is the primary purpose of a lesson plan?",
+    "choices": ["To satisfy administrators", "To guide instruction and learning objectives", "To fill time", "To assign homework"],
+    "answer": "To guide instruction and learning objectives",
+    "explanation": "A lesson plan outlines learning objectives, activities, and assessments to guide effective instruction."
+  },
+  {
+    "id": "teach_008",
+    "type": "Child Development",
+    "difficulty": "Hard",
+    "question": "Erikson's stage of 'Identity vs. Role Confusion' occurs during which period?",
+    "choices": ["Infancy", "Early childhood", "Adolescence", "Adulthood"],
+    "answer": "Adolescence",
+    "explanation": "Identity vs. Role Confusion is Erikson's fifth stage, occurring during adolescence (ages 12-18)."
+  },
+  {
+    "id": "teach_009",
+    "type": "Pedagogy",
+    "difficulty": "Hard",
+    "question": "What is scaffolding in education?",
+    "choices": ["Building physical structures", "Temporary support that is gradually removed", "Group work", "Standardized testing"],
+    "answer": "Temporary support that is gradually removed",
+    "explanation": "Scaffolding provides temporary support to help learners achieve tasks, gradually removed as competence increases."
+  },
+  {
+    "id": "teach_010",
+    "type": "Subject Matter",
+    "difficulty": "Medium",
+    "question": "Which assessment type measures student learning at the end of an instructional period?",
+    "choices": ["Formative", "Diagnostic", "Summative", "Norm-referenced"],
+    "answer": "Summative",
+    "explanation": "Summative assessment evaluates student learning at the end of an instructional unit or course."
+  }
+]

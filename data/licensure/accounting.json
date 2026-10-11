@@ -1,0 +1,92 @@
+[
+  {
+    "id": "acct_001",
+    "type": "Financial Accounting",
+    "difficulty": "Medium",
+    "question": "What is the accounting equation?",
+    "choices": ["Assets = Liabilities + Equity", "Assets = Liabilities - Equity", "Revenue - Expenses = Profit", "Assets + Liabilities = Equity"],
+    "answer": "Assets = Liabilities + Equity",
+    "explanation": "The fundamental accounting equation states that Assets = Liabilities + Owner's Equity."
+  },
+  {
+    "id": "acct_002",
+    "type": "Auditing",
+    "difficulty": "Medium",
+    "question": "What is the primary objective of an audit?",
+    "choices": ["To find fraud", "To express an opinion on financial statements", "To prepare tax returns", "To manage finances"],
+    "answer": "To express an opinion on financial statements",
+    "explanation": "The primary objective of an audit is to express an independent opinion on whether financial statements are fairly presented."
+  },
+  {
+    "id": "acct_003",
+    "type": "Taxation",
+    "difficulty": "Medium",
+    "question": "What is a progressive tax system?",
+    "choices": ["Same rate for all incomes", "Higher incomes taxed at higher rates", "Lower incomes taxed at higher rates", "No tax on income"],
+    "answer": "Higher incomes taxed at higher rates",
+    "explanation": "A progressive tax system imposes higher tax rates on higher levels of taxable income."
+  },
+  {
+    "id": "acct_004",
+    "type": "Financial Accounting",
+    "difficulty": "Medium",
+    "question": "Which financial statement shows a company's financial position at a specific point in time?",
+    "choices": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Statement of Retained Earnings"],
+    "answer": "Balance Sheet",
+    "explanation": "The balance sheet (statement of financial position) shows assets, liabilities, and equity at a specific date."
+  },
+  {
+    "id": "acct_005",
+    "type": "Financial Accounting",
+    "difficulty": "Hard",
+    "question": "What is the matching principle in accounting?",
+    "choices": ["Match assets with liabilities", "Record expenses in the same period as related revenues", "Match debits with credits", "Record all cash transactions"],
+    "answer": "Record expenses in the same period as related revenues",
+    "explanation": "The matching principle requires expenses to be recorded in the same period as the revenues they helped generate."
+  },
+  {
+    "id": "acct_006",
+    "type": "Auditing",
+    "difficulty": "Hard",
+    "question": "What type of audit opinion indicates financial statements are fairly presented?",
+    "choices": ["Qualified opinion", "Adverse opinion", "Unqualified opinion", "Disclaimer of opinion"],
+    "answer": "Unqualified opinion",
+    "explanation": "An unqualified (clean) opinion means the financial statements are fairly presented in all material respects."
+  },
+  {
+    "id": "acct_007",
+    "type": "Taxation",
+    "difficulty": "Medium",
+    "question": "What is a tax deduction?",
+    "choices": ["An increase in taxable income", "An amount subtracted from gross income", "A tax credit", "A tax penalty"],
+    "answer": "An amount subtracted from gross income",
+    "explanation": "A tax deduction reduces your gross income, lowering your taxable income."
+  },
+  {
+    "id": "acct_008",
+    "type": "Financial Accounting",
+    "difficulty": "Hard",
+    "question": "What is depreciation?",
+    "choices": ["Increase in asset value", "Allocation of cost over useful life", "Sale of assets", "Purchase of new equipment"],
+    "answer": "Allocation of cost over useful life",
+    "explanation": "Depreciation allocates the cost of a tangible asset over its estimated useful life."
+  },
+  {
+    "id": "acct_009",
+    "type": "Financial Accounting",
+    "difficulty": "Medium",
+    "question": "Which ratio measures a company's ability to meet short-term obligations?",
+    "choices": ["Debt-to-equity ratio", "Current ratio", "Return on equity", "Profit margin"],
+    "answer": "Current ratio",
+    "explanation": "The current ratio (current assets / current liabilities) measures short-term liquidity."
+  },
+  {
+    "id": "acct_010",
+    "type": "Auditing",
+    "difficulty": "Hard",
+    "question": "What is internal control in accounting?",
+    "choices": ["Government regulation", "Processes to safeguard assets and ensure accuracy", "External audit procedures", "Tax compliance measures"],
+    "answer": "Processes to safeguard assets and ensure accuracy",
+    "explanation": "Internal controls are processes designed to safeguard assets, ensure accurate records, and promote operational efficiency."
+  }
+]

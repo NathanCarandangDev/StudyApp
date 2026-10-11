@@ -1,0 +1,63 @@
+{
+  "title": "English / Language Arts Fundamentals",
+  "description": "Review grammar, writing, and reading comprehension skills.",
+  "sections": [
+    {
+      "heading": "Parts of Speech",
+      "content": "The eight parts of speech are: nouns (things), pronouns (replace nouns), verbs (actions), adjectives (describe nouns), adverbs (describe verbs), prepositions (show relationships), conjunctions (connect words), and interjections (express emotion). Understanding these helps with clear writing."
+    },
+    {
+      "heading": "Sentence Structure",
+      "content": "A complete sentence needs a subject and a predicate. Types include: simple (one independent clause), compound (two independent clauses), complex (one independent + one dependent clause), and compound-complex (multiple independent + dependent clauses)."
+    },
+    {
+      "heading": "Reading Comprehension Strategies",
+      "content": "Key strategies include: previewing (skimming headings), active reading (highlighting and annotating), questioning (asking 'why' and 'how'), summarizing (restating in your own words), and making inferences (reading between the lines)."
+    },
+    {
+      "heading": "Essay Writing",
+      "content": "A basic essay has three parts: introduction (with thesis statement), body paragraphs (each with a topic sentence, evidence, and analysis), and conclusion (restating thesis and summarizing main points). Always support claims with evidence."
+    },
+    {
+      "heading": "Common Grammar Rules",
+      "content": "Key rules: use 'who' for subjects and 'whom' for objects; 'its' shows possession, 'it's' means 'it is'; 'their' (possession), 'there' (place), 'they're' (they are); always use a comma before 'and' in a compound sentence."
+    }
+  ],
+  "practice_questions": [
+    {
+      "id": "eng_prac_001",
+      "question": "Which is a noun?",
+      "choices": ["Quickly", "Beautiful", "Happiness", "Run"],
+      "answer": "Happiness",
+      "explanation": "Happiness is a noun (a thing/concept). Quickly is an adverb, beautiful is an adjective, run is a verb."
+    },
+    {
+      "id": "eng_prac_002",
+      "question": "Which sentence is complete?",
+      "choices": ["Running fast", "The quick brown fox", "She runs every morning", "Because it was raining"],
+      "answer": "She runs every morning",
+      "explanation": "It has a subject ('She') and a predicate ('runs every morning')."
+    },
+    {
+      "id": "eng_prac_003",
+      "question": "What is a thesis statement?",
+      "choices": ["A question", "The main argument of an essay", "A conclusion", "A quote"],
+      "answer": "The main argument of an essay",
+      "explanation": "A thesis statement presents the main argument or claim of an essay, usually in the introduction."
+    },
+    {
+      "id": "eng_prac_004",
+      "question": "Which is correct: 'Their going' or 'They're going'?",
+      "choices": ["Their going", "They're going", "Both are correct", "Neither is correct"],
+      "answer": "They're going",
+      "explanation": "'They're' is a contraction of 'they are.' 'Their' shows possession."
+    },
+    {
+      "id": "eng_prac_005",
+      "question": "What is an inference?",
+      "choices": ["A direct quote", "A conclusion based on evidence and reasoning", "A summary", "A prediction"],
+      "answer": "A conclusion based on evidence and reasoning",
+      "explanation": "An inference is a conclusion reached on the basis of evidence and reasoning, not directly stated."
+    }
+  ]
+}

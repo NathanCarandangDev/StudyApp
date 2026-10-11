@@ -1,0 +1,28 @@
+{
+  "exams": [
+    {
+      "id": "nursing",
+      "name": "Nursing Licensure (NCLEX-style)",
+      "icon": "🏥",
+      "description": "Practice questions for nursing licensure exams covering patient care, anatomy, and pharmacology."
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering Board Exam",
+      "icon": "⚙️",
+      "description": "Practice questions covering physics, mathematics, and engineering fundamentals."
+    },
+    {
+      "id": "teaching",
+      "name": "Teaching Licensure (LET)",
+      "icon": "📋",
+      "description": "Practice questions for teaching licensure covering pedagogy, child development, and subject matter."
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting Board Exam (CPA)",
+      "icon": "📊",
+      "description": "Practice questions covering financial accounting, auditing, and taxation."
+    }
+  ]
+}

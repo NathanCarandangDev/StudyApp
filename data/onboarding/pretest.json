@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pre_001",
+    "type": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What is the largest planet in our solar system?",
+    "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter",
+    "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of all other planets combined."
+  },
+  {
+    "id": "pre_002",
+    "type": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide",
+    "explanation": "Plants absorb carbon dioxide (CO2) from the atmosphere and use sunlight to convert it into glucose and oxygen."
+  },
+  {
+    "id": "pre_003",
+    "type": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What is the square root of 144?",
+    "choices": ["10", "11", "12", "14"],
+    "answer": "12",
+    "explanation": "12 × 12 = 144, so the square root of 144 is 12."
+  },
+  {
+    "id": "pre_004",
+    "type": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which country has the largest population in the world?",
+    "choices": ["China", "India", "United States", "Indonesia"],
+    "answer": "India",
+    "explanation": "As of 2023, India surpassed China to become the most populous country in the world."
+  },
+  {
+    "id": "pre_005",
+    "type": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the chemical symbol for gold?",
+    "choices": ["Go", "Gd", "Au", "Ag"],
+    "answer": "Au",
+    "explanation": "The chemical symbol for gold is Au, from the Latin word 'aurum'."
+  },
+  {
+    "id": "pre_006",
+    "type": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "choices": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare",
+    "explanation": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career."
+  },
+  {
+    "id": "pre_007",
+    "type": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the speed of light approximately?",
+    "choices": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answer": "300,000 km/s",
+    "explanation": "The speed of light in a vacuum is approximately 299,792 km/s, commonly rounded to 300,000 km/s."
+  },
+  {
+    "id": "pre_008",
+    "type": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which organ in the human body is responsible for pumping blood?",
+    "choices": ["Brain", "Lungs", "Heart", "Liver"],
+    "answer": "Heart",
+    "explanation": "The heart is a muscular organ that pumps blood throughout the body via the circulatory system."
+  },
+  {
+    "id": "pre_009",
+    "type": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What year did World War II end?",
+    "choices": ["1943", "1944", "1945", "1946"],
+    "answer": "1945",
+    "explanation": "World War II ended in 1945, with Germany surrendering in May and Japan in September."
+  },
+  {
+    "id": "pre_010",
+    "type": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the smallest unit of matter?",
+    "choices": ["Molecule", "Atom", "Electron", "Quark"],
+    "answer": "Atom",
+    "explanation": "An atom is the basic unit of a chemical element. While atoms are made of smaller particles (protons, neutrons, electrons), the atom is the smallest unit that retains the properties of an element."
+  }
+]

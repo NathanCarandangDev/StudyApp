@@ -1,0 +1,452 @@
+[
+  {
+    "id": "geo_001",
+    "type": "Angles",
+    "difficulty": "Easy",
+    "question": "What type of angle is 90°?",
+    "choices": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Right",
+    "explanation": "A 90° angle is called a right angle."
+  },
+  {
+    "id": "geo_002",
+    "type": "Angles",
+    "difficulty": "Easy",
+    "question": "What type of angle is 45°?",
+    "choices": ["Acute", "Right", "Obtuse", "Reflex"],
+    "answer": "Acute",
+    "explanation": "Angles less than 90° are acute."
+  },
+  {
+    "id": "geo_003",
+    "type": "Angles",
+    "difficulty": "Easy",
+    "question": "What type of angle is 120°?",
+    "choices": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Obtuse",
+    "explanation": "Angles between 90° and 180° are obtuse."
+  },
+  {
+    "id": "geo_004",
+    "type": "Angles",
+    "difficulty": "Medium",
+    "question": "Two angles are complementary. One is 35°. What is the other?",
+    "choices": ["45°", "55°", "65°", "145°"],
+    "answer": "55°",
+    "explanation": "Complementary angles sum to 90°. 90 - 35 = 55."
+  },
+  {
+    "id": "geo_005",
+    "type": "Angles",
+    "difficulty": "Medium",
+    "question": "Two angles are supplementary. One is 110°. What is the other?",
+    "choices": ["60°", "70°", "80°", "90°"],
+    "answer": "70°",
+    "explanation": "Supplementary angles sum to 180°. 180 - 110 = 70."
+  },
+  {
+    "id": "geo_006",
+    "type": "Angles",
+    "difficulty": "Medium",
+    "question": "What is the sum of interior angles in a triangle?",
+    "choices": ["90°", "180°", "270°", "360°"],
+    "answer": "180°",
+    "explanation": "The interior angles of any triangle sum to 180°."
+  },
+  {
+    "id": "geo_007",
+    "type": "Angles",
+    "difficulty": "Medium",
+    "question": "Two angles of a triangle are 45° and 65°. What is the third?",
+    "choices": ["60°", "70°", "80°", "90°"],
+    "answer": "70°",
+    "explanation": "180 - 45 - 65 = 70."
+  },
+  {
+    "id": "geo_008",
+    "type": "Triangles",
+    "difficulty": "Easy",
+    "question": "A triangle with all three sides equal is called:",
+    "choices": ["Isosceles", "Scalene", "Equilateral", "Right"],
+    "answer": "Equilateral",
+    "explanation": "Equilateral triangles have three equal sides."
+  },
+  {
+    "id": "geo_009",
+    "type": "Triangles",
+    "difficulty": "Easy",
+    "question": "A triangle with two equal sides is called:",
+    "choices": ["Isosceles", "Scalene", "Equilateral", "Obtuse"],
+    "answer": "Isosceles",
+    "explanation": "Isosceles triangles have two equal sides."
+  },
+  {
+    "id": "geo_010",
+    "type": "Triangles",
+    "difficulty": "Easy",
+    "question": "A triangle with no equal sides is called:",
+    "choices": ["Isosceles", "Scalene", "Equilateral", "Acute"],
+    "answer": "Scalene",
+    "explanation": "Scalene triangles have all sides different lengths."
+  },
+  {
+    "id": "geo_011",
+    "type": "Pythagorean Theorem",
+    "difficulty": "Easy",
+    "question": "In a right triangle, a = 3, b = 4. What is c (hypotenuse)?",
+    "choices": ["5", "6", "7", "12"],
+    "answer": "5",
+    "explanation": "a² + b² = c². 9 + 16 = 25, c = 5."
+  },
+  {
+    "id": "geo_012",
+    "type": "Pythagorean Theorem",
+    "difficulty": "Medium",
+    "question": "In a right triangle, a = 6, b = 8. What is c?",
+    "choices": ["10", "12", "14", "48"],
+    "answer": "10",
+    "explanation": "36 + 64 = 100, c = 10."
+  },
+  {
+    "id": "geo_013",
+    "type": "Pythagorean Theorem",
+    "difficulty": "Medium",
+    "question": "In a right triangle, c = 13, a = 5. What is b?",
+    "choices": ["8", "10", "12", "14"],
+    "answer": "12",
+    "explanation": "169 - 25 = 144, b = 12."
+  },
+  {
+    "id": "geo_014",
+    "type": "Pythagorean Theorem",
+    "difficulty": "Hard",
+    "question": "A ladder 10 ft long leans against a wall. The base is 6 ft from the wall. How high up does it reach?",
+    "choices": ["6 ft", "8 ft", "9 ft", "10 ft"],
+    "answer": "8 ft",
+    "explanation": "100 - 36 = 64, height = 8 ft."
+  },
+  {
+    "id": "geo_015",
+    "type": "Perimeter",
+    "difficulty": "Easy",
+    "question": "What is the perimeter of a rectangle with length 8 and width 3?",
+    "choices": ["11", "22", "24", "32"],
+    "answer": "22",
+    "explanation": "P = 2(L + W) = 2(8 + 3) = 22."
+  },
+  {
+    "id": "geo_016",
+    "type": "Perimeter",
+    "difficulty": "Easy",
+    "question": "What is the perimeter of a square with side 5?",
+    "choices": ["10", "15", "20", "25"],
+    "answer": "20",
+    "explanation": "P = 4s = 4 × 5 = 20."
+  },
+  {
+    "id": "geo_017",
+    "type": "Perimeter",
+    "difficulty": "Medium",
+    "question": "The perimeter of a square is 36. What is the length of one side?",
+    "choices": ["6", "8", "9", "12"],
+    "answer": "9",
+    "explanation": "s = P / 4 = 36 / 4 = 9."
+  },
+  {
+    "id": "geo_018",
+    "type": "Area",
+    "difficulty": "Easy",
+    "question": "What is the area of a rectangle 7 × 4?",
+    "choices": ["11", "14", "22", "28"],
+    "answer": "28",
+    "explanation": "A = L × W = 7 × 4 = 28."
+  },
+  {
+    "id": "geo_019",
+    "type": "Area",
+    "difficulty": "Easy",
+    "question": "What is the area of a square with side 6?",
+    "choices": ["12", "24", "36", "48"],
+    "answer": "36",
+    "explanation": "A = s² = 6² = 36."
+  },
+  {
+    "id": "geo_020",
+    "type": "Area",
+    "difficulty": "Medium",
+    "question": "What is the area of a triangle with base 10 and height 6?",
+    "choices": ["30", "60", "16", "120"],
+    "answer": "30",
+    "explanation": "A = ½ × b × h = ½ × 10 × 6 = 30."
+  },
+  {
+    "id": "geo_021",
+    "type": "Area",
+    "difficulty": "Medium",
+    "question": "What is the area of a circle with radius 3? (Use π)",
+    "choices": ["3π", "6π", "9π", "12π"],
+    "answer": "9π",
+    "explanation": "A = πr² = π × 3² = 9π."
+  },
+  {
+    "id": "geo_022",
+    "type": "Area",
+    "difficulty": "Medium",
+    "question": "What is the area of a parallelogram with base 8 and height 5?",
+    "choices": ["13", "20", "40", "80"],
+    "answer": "40",
+    "explanation": "A = base × height = 8 × 5 = 40."
+  },
+  {
+    "id": "geo_023",
+    "type": "Area",
+    "difficulty": "Hard",
+    "question": "What is the area of a trapezoid with bases 6 and 10, height 4?",
+    "choices": ["16", "24", "32", "64"],
+    "answer": "32",
+    "explanation": "A = ½(b₁ + b₂)h = ½(6 + 10)(4) = 32."
+  },
+  {
+    "id": "geo_024",
+    "type": "Circles",
+    "difficulty": "Easy",
+    "question": "What is the circumference formula for a circle?",
+    "choices": ["πr²", "2πr", "πd²", "r²"],
+    "answer": "2πr",
+    "explanation": "Circumference = 2πr (or πd)."
+  },
+  {
+    "id": "geo_025",
+    "type": "Circles",
+    "difficulty": "Medium",
+    "question": "What is the circumference of a circle with radius 5? (in terms of π)",
+    "choices": ["5π", "10π", "25π", "50π"],
+    "answer": "10π",
+    "explanation": "C = 2πr = 2π(5) = 10π."
+  },
+  {
+    "id": "geo_026",
+    "type": "Circles",
+    "difficulty": "Medium",
+    "question": "What is the diameter of a circle with radius 7?",
+    "choices": ["3.5", "7", "14", "49"],
+    "answer": "14",
+    "explanation": "d = 2r = 2 × 7 = 14."
+  },
+  {
+    "id": "geo_027",
+    "type": "Circles",
+    "difficulty": "Hard",
+    "question": "If the circumference of a circle is 12π, what is its area?",
+    "choices": ["6π", "12π", "36π", "144π"],
+    "answer": "36π",
+    "explanation": "2πr = 12π → r = 6. A = πr² = 36π."
+  },
+  {
+    "id": "geo_028",
+    "type": "Polygons",
+    "difficulty": "Medium",
+    "question": "How many sides does a hexagon have?",
+    "choices": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "Hexagon = 6 sides."
+  },
+  {
+    "id": "geo_029",
+    "type": "Polygons",
+    "difficulty": "Medium",
+    "question": "How many sides does an octagon have?",
+    "choices": ["6", "7", "8", "10"],
+    "answer": "8",
+    "explanation": "Octagon = 8 sides."
+  },
+  {
+    "id": "geo_030",
+    "type": "Polygons",
+    "difficulty": "Medium",
+    "question": "What is the sum of interior angles of a quadrilateral?",
+    "choices": ["180°", "270°", "360°", "540°"],
+    "answer": "360°",
+    "explanation": "Any quadrilateral's interior angles sum to 360°."
+  },
+  {
+    "id": "geo_031",
+    "type": "Polygons",
+    "difficulty": "Hard",
+    "question": "What is the sum of interior angles of a pentagon?",
+    "choices": ["360°", "450°", "540°", "720°"],
+    "answer": "540°",
+    "explanation": "Formula: (n - 2) × 180 = (5 - 2) × 180 = 540."
+  },
+  {
+    "id": "geo_032",
+    "type": "Polygons",
+    "difficulty": "Hard",
+    "question": "What is the sum of interior angles of a hexagon?",
+    "choices": ["540°", "720°", "900°", "1080°"],
+    "answer": "720°",
+    "explanation": "(6 - 2) × 180 = 720."
+  },
+  {
+    "id": "geo_033",
+    "type": "Volume",
+    "difficulty": "Medium",
+    "question": "What is the volume of a cube with side 4?",
+    "choices": ["12", "16", "48", "64"],
+    "answer": "64",
+    "explanation": "V = s³ = 4³ = 64."
+  },
+  {
+    "id": "geo_034",
+    "type": "Volume",
+    "difficulty": "Medium",
+    "question": "What is the volume of a rectangular box 5 × 3 × 2?",
+    "choices": ["10", "15", "30", "60"],
+    "answer": "30",
+    "explanation": "V = L × W × H = 5 × 3 × 2 = 30."
+  },
+  {
+    "id": "geo_035",
+    "type": "Volume",
+    "difficulty": "Hard",
+    "question": "What is the volume of a cylinder with radius 3 and height 5? (in terms of π)",
+    "choices": ["15π", "30π", "45π", "75π"],
+    "answer": "45π",
+    "explanation": "V = πr²h = π × 9 × 5 = 45π."
+  },
+  {
+    "id": "geo_036",
+    "type": "Volume",
+    "difficulty": "Hard",
+    "question": "What is the volume of a sphere with radius 3? (in terms of π)",
+    "choices": ["9π", "27π", "36π", "108π"],
+    "answer": "36π",
+    "explanation": "V = (4/3)πr³ = (4/3)π × 27 = 36π."
+  },
+  {
+    "id": "geo_037",
+    "type": "Surface Area",
+    "difficulty": "Medium",
+    "question": "What is the surface area of a cube with side 3?",
+    "choices": ["9", "27", "36", "54"],
+    "answer": "54",
+    "explanation": "SA = 6s² = 6 × 9 = 54."
+  },
+  {
+    "id": "geo_038",
+    "type": "Surface Area",
+    "difficulty": "Hard",
+    "question": "What is the surface area of a sphere with radius 2? (in terms of π)",
+    "choices": ["4π", "8π", "16π", "32π"],
+    "answer": "16π",
+    "explanation": "SA = 4πr² = 4π × 4 = 16π."
+  },
+  {
+    "id": "geo_039",
+    "type": "Coordinate Geometry",
+    "difficulty": "Easy",
+    "question": "What is the distance between (0, 0) and (3, 4)?",
+    "choices": ["3", "4", "5", "7"],
+    "answer": "5",
+    "explanation": "Distance = √(3² + 4²) = √25 = 5."
+  },
+  {
+    "id": "geo_040",
+    "type": "Coordinate Geometry",
+    "difficulty": "Medium",
+    "question": "What is the midpoint of (2, 4) and (6, 10)?",
+    "choices": ["(3, 6)", "(4, 7)", "(5, 8)", "(8, 14)"],
+    "answer": "(4, 7)",
+    "explanation": "Midpoint = ((2+6)/2, (4+10)/2) = (4, 7)."
+  },
+  {
+    "id": "geo_041",
+    "type": "Coordinate Geometry",
+    "difficulty": "Medium",
+    "question": "What is the slope of the line through (1, 2) and (3, 8)?",
+    "choices": ["2", "3", "4", "6"],
+    "answer": "3",
+    "explanation": "m = (8 - 2)/(3 - 1) = 6/2 = 3."
+  },
+  {
+    "id": "geo_042",
+    "type": "Coordinate Geometry",
+    "difficulty": "Hard",
+    "question": "What is the equation of a circle centered at origin with radius 4?",
+    "choices": ["x + y = 4", "x² + y² = 4", "x² + y² = 16", "x² - y² = 16"],
+    "answer": "x² + y² = 16",
+    "explanation": "Circle equation: x² + y² = r² = 16."
+  },
+  {
+    "id": "geo_043",
+    "type": "Transformations",
+    "difficulty": "Medium",
+    "question": "Reflecting (3, 5) over the x-axis gives:",
+    "choices": ["(3, -5)", "(-3, 5)", "(-3, -5)", "(5, 3)"],
+    "answer": "(3, -5)",
+    "explanation": "Reflection over x-axis: (x, y) → (x, -y)."
+  },
+  {
+    "id": "geo_044",
+    "type": "Transformations",
+    "difficulty": "Medium",
+    "question": "Reflecting (3, 5) over the y-axis gives:",
+    "choices": ["(3, -5)", "(-3, 5)", "(-3, -5)", "(5, 3)"],
+    "answer": "(-3, 5)",
+    "explanation": "Reflection over y-axis: (x, y) → (-x, y)."
+  },
+  {
+    "id": "geo_045",
+    "type": "Transformations",
+    "difficulty": "Hard",
+    "question": "Rotating (4, 0) by 90° counterclockwise around origin gives:",
+    "choices": ["(0, 4)", "(0, -4)", "(-4, 0)", "(4, 4)"],
+    "answer": "(0, 4)",
+    "explanation": "90° CCW: (x, y) → (-y, x). So (4, 0) → (0, 4)."
+  },
+  {
+    "id": "geo_046",
+    "type": "Similarity",
+    "difficulty": "Hard",
+    "question": "Two similar triangles have sides in ratio 2:3. What's the ratio of their areas?",
+    "choices": ["2:3", "4:9", "8:27", "1:1"],
+    "answer": "4:9",
+    "explanation": "Area ratio = (side ratio)² = 2²:3² = 4:9."
+  },
+  {
+    "id": "geo_047",
+    "type": "Similarity",
+    "difficulty": "Hard",
+    "question": "Two similar cubes have sides in ratio 1:2. What's the ratio of their volumes?",
+    "choices": ["1:2", "1:4", "1:6", "1:8"],
+    "answer": "1:8",
+    "explanation": "Volume ratio = (side ratio)³ = 1³:2³ = 1:8."
+  },
+  {
+    "id": "geo_048",
+    "type": "Special Right Triangles",
+    "difficulty": "Hard",
+    "question": "In a 30-60-90 triangle, if the short leg is 5, what is the hypotenuse?",
+    "choices": ["5√2", "5√3", "10", "15"],
+    "answer": "10",
+    "explanation": "In 30-60-90, hypotenuse = 2 × short leg = 10."
+  },
+  {
+    "id": "geo_049",
+    "type": "Special Right Triangles",
+    "difficulty": "Hard",
+    "question": "In a 45-45-90 triangle, if each leg is 3, what is the hypotenuse?",
+    "choices": ["3", "3√2", "3√3", "6"],
+    "answer": "3√2",
+    "explanation": "In 45-45-90, hypotenuse = leg × √2 = 3√2."
+  },
+  {
+    "id": "geo_050",
+    "type": "Mixed Review",
+    "difficulty": "Hard",
+    "question": "A circle has area 25π. What is its circumference?",
+    "choices": ["5π", "10π", "25π", "50π"],
+    "answer": "10π",
+    "explanation": "πr² = 25π → r = 5. C = 2πr = 10π."
+  }
+]

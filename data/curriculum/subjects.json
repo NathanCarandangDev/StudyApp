@@ -1,0 +1,98 @@
+{
+  "subjects": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "icon": "🔢",
+      "topics": [
+        { "id": "algebra", "name": "Algebra" },
+        { "id": "geometry", "name": "Geometry" },
+        { "id": "calculus", "name": "Calculus" },
+        { "id": "statistics", "name": "Statistics" },
+        { "id": "arithmetic", "name": "Arithmetic" }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English / Language Arts",
+      "icon": "📖",
+      "topics": [
+        { "id": "literature", "name": "Literature" },
+        { "id": "writing", "name": "Writing" },
+        { "id": "grammar", "name": "Grammar" },
+        { "id": "reading_comprehension", "name": "Reading Comprehension" },
+        { "id": "public_speaking", "name": "Public Speaking" }
+      ]
+    },
+    {
+      "id": "sciences",
+      "name": "Sciences",
+      "icon": "🔬",
+      "topics": [
+        { "id": "biology", "name": "Biology" },
+        { "id": "chemistry", "name": "Chemistry" },
+        { "id": "physics", "name": "Physics" },
+        { "id": "earth_science", "name": "Earth Science" },
+        { "id": "environmental_science", "name": "Environmental Science" }
+      ]
+    },
+    {
+      "id": "social_studies",
+      "name": "Social Studies / History",
+      "icon": "🌍",
+      "topics": [
+        { "id": "world_history", "name": "World History" },
+        { "id": "local_history", "name": "U.S./Local History" },
+        { "id": "geography", "name": "Geography" },
+        { "id": "civics", "name": "Civics" },
+        { "id": "economics", "name": "Economics" }
+      ]
+    },
+    {
+      "id": "arts_humanities",
+      "name": "Arts & Humanities",
+      "icon": "🎨",
+      "topics": [
+        { "id": "art", "name": "Art" },
+        { "id": "music", "name": "Music" },
+        { "id": "drama", "name": "Drama" },
+        { "id": "dance", "name": "Dance" },
+        { "id": "photography", "name": "Photography" },
+        { "id": "theater", "name": "Theater" }
+      ]
+    },
+    {
+      "id": "tech_business",
+      "name": "Technology & Business",
+      "icon": "💻",
+      "topics": [
+        { "id": "computer_science", "name": "Computer Science" },
+        { "id": "information_technology", "name": "Information Technology (IT)" },
+        { "id": "business_studies", "name": "Business Studies" },
+        { "id": "accounting", "name": "Accounting" },
+        { "id": "marketing", "name": "Marketing" }
+      ]
+    },
+    {
+      "id": "languages",
+      "name": "Foreign Languages",
+      "icon": "🗣️",
+      "topics": [
+        { "id": "spanish", "name": "Spanish" },
+        { "id": "french", "name": "French" },
+        { "id": "german", "name": "German" },
+        { "id": "mandarin", "name": "Mandarin Chinese" },
+        { "id": "japanese", "name": "Japanese" }
+      ]
+    },
+    {
+      "id": "health_pe",
+      "name": "Health & Physical Education",
+      "icon": "🏃",
+      "topics": [
+        { "id": "health", "name": "Health" },
+        { "id": "physical_education", "name": "Physical Education" }
+      ]
+    }
+  ]
+}

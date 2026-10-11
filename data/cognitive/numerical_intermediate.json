@@ -1,0 +1,92 @@
+[
+  {
+    "id": "num_int_001",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What is 15% of 350?",
+    "choices": ["42.5", "52.5", "55", "62.5"],
+    "answer": "52.5",
+    "explanation": "15% of 350 = 0.15 × 350 = 52.5."
+  },
+  {
+    "id": "num_int_002",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What comes next: 1, 1, 2, 3, 5, 8, ___?",
+    "choices": ["10", "11", "12", "13"],
+    "answer": "13",
+    "explanation": "This is the Fibonacci sequence. Each number is the sum of the two preceding ones: 5 + 8 = 13."
+  },
+  {
+    "id": "num_int_003",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "If x + 5 = 12, what is 2x?",
+    "choices": ["7", "14", "17", "24"],
+    "answer": "14",
+    "explanation": "x = 12 - 5 = 7. Therefore 2x = 2 × 7 = 14."
+  },
+  {
+    "id": "num_int_004",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "A car travels 120 miles in 2 hours. What is its average speed?",
+    "choices": ["50 mph", "55 mph", "60 mph", "65 mph"],
+    "answer": "60 mph",
+    "explanation": "Speed = Distance / Time = 120 / 2 = 60 mph."
+  },
+  {
+    "id": "num_int_005",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What is the square root of 225?",
+    "choices": ["13", "14", "15", "16"],
+    "answer": "15",
+    "explanation": "15 × 15 = 225, so √225 = 15."
+  },
+  {
+    "id": "num_int_006",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What is 3/4 as a decimal?",
+    "choices": ["0.25", "0.5", "0.75", "0.85"],
+    "answer": "0.75",
+    "explanation": "3 ÷ 4 = 0.75."
+  },
+  {
+    "id": "num_int_007",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "If a rectangle has area 48 and width 6, what is its length?",
+    "choices": ["6", "7", "8", "9"],
+    "answer": "8",
+    "explanation": "Area = length × width. 48 = length × 6. Length = 48 / 6 = 8."
+  },
+  {
+    "id": "num_int_008",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What is 2³ × 3²?",
+    "choices": ["36", "48", "54", "72"],
+    "answer": "72",
+    "explanation": "2³ = 8, 3² = 9. 8 × 9 = 72."
+  },
+  {
+    "id": "num_int_009",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "A store offers 'buy 2, get 1 free.' If each item costs $10, what is the effective price per item?",
+    "choices": ["$3.33", "$5.00", "$6.67", "$7.50"],
+    "answer": "$6.67",
+    "explanation": "You pay $20 for 3 items. $20 / 3 = $6.67 per item."
+  },
+  {
+    "id": "num_int_010",
+    "type": "Numerical",
+    "difficulty": "Intermediate",
+    "question": "What is the median of: 3, 7, 9, 12, 15?",
+    "choices": ["7", "9", "12", "15"],
+    "answer": "9",
+    "explanation": "The median is the middle value when sorted. With 5 numbers, the 3rd value (9) is the median."
+  }
+]

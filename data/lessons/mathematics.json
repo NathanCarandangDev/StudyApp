@@ -1,0 +1,63 @@
+{
+  "title": "Mathematics Fundamentals",
+  "description": "Review key concepts in algebra, geometry, and arithmetic.",
+  "sections": [
+    {
+      "heading": "Order of Operations (PEMDAS)",
+      "content": "When solving mathematical expressions, follow this order: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right). For example: 3 + 4 × 2 = 3 + 8 = 11, not 14."
+    },
+    {
+      "heading": "Linear Equations",
+      "content": "A linear equation has the form ax + b = c. To solve for x, isolate the variable by performing inverse operations on both sides. Example: 2x + 5 = 13 → 2x = 8 → x = 4."
+    },
+    {
+      "heading": "Slope and Lines",
+      "content": "The slope of a line measures its steepness. In y = mx + b, m is the slope. A positive slope goes up, negative goes down. Parallel lines have equal slopes; perpendicular lines have negative reciprocal slopes."
+    },
+    {
+      "heading": "Factoring",
+      "content": "Factoring breaks expressions into simpler multiplied parts. Difference of squares: a² - b² = (a-b)(a+b). Example: x² - 9 = (x-3)(x+3)."
+    },
+    {
+      "heading": "Basic Geometry",
+      "content": "Area of a rectangle = length × width. Area of a triangle = ½ × base × height. Circumference of a circle = 2πr. The Pythagorean theorem: a² + b² = c² for right triangles."
+    }
+  ],
+  "practice_questions": [
+    {
+      "id": "math_prac_001",
+      "question": "What is 2 + 3 × 4?",
+      "choices": ["20", "14", "24", "10"],
+      "answer": "14",
+      "explanation": "Multiplication first: 3 × 4 = 12. Then addition: 2 + 12 = 14."
+    },
+    {
+      "id": "math_prac_002",
+      "question": "Solve: 3x - 6 = 15",
+      "choices": ["3", "5", "7", "9"],
+      "answer": "7",
+      "explanation": "3x = 21, so x = 7."
+    },
+    {
+      "id": "math_prac_003",
+      "question": "What is the area of a triangle with base 10 and height 6?",
+      "choices": ["60", "30", "16", "20"],
+      "answer": "30",
+      "explanation": "Area = ½ × 10 × 6 = 30."
+    },
+    {
+      "id": "math_prac_004",
+      "question": "Factor: x² - 16",
+      "choices": ["(x-4)(x+4)", "(x-8)(x+2)", "(x-16)(x+1)", "(x-4)²"],
+      "answer": "(x-4)(x+4)",
+      "explanation": "Difference of squares: x² - 16 = (x-4)(x+4)."
+    },
+    {
+      "id": "math_prac_005",
+      "question": "What is the slope of y = -2x + 5?",
+      "choices": ["5", "-2", "2", "-5"],
+      "answer": "-2",
+      "explanation": "In y = mx + b form, m = -2 is the slope."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "num_beg_001",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is 15 + 27?",
+    "choices": ["32", "42", "45", "52"],
+    "answer": "42",
+    "explanation": "15 + 27 = 42."
+  },
+  {
+    "id": "num_beg_002",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is 8 × 7?",
+    "choices": ["54", "56", "63", "48"],
+    "answer": "56",
+    "explanation": "8 × 7 = 56."
+  },
+  {
+    "id": "num_beg_003",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is 144 ÷ 12?",
+    "choices": ["10", "11", "12", "14"],
+    "answer": "12",
+    "explanation": "144 ÷ 12 = 12."
+  },
+  {
+    "id": "num_beg_004",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is 25% of 200?",
+    "choices": ["25", "50", "75", "100"],
+    "answer": "50",
+    "explanation": "25% of 200 = 0.25 × 200 = 50."
+  },
+  {
+    "id": "num_beg_005",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What comes next: 2, 4, 6, 8, ___?",
+    "choices": ["9", "10", "11", "12"],
+    "answer": "10",
+    "explanation": "The pattern adds 2 each time. 8 + 2 = 10."
+  },
+  {
+    "id": "num_beg_006",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is 3² + 4²?",
+    "choices": ["7", "12", "25", "49"],
+    "answer": "25",
+    "explanation": "3² = 9, 4² = 16. 9 + 16 = 25."
+  },
+  {
+    "id": "num_beg_007",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "Which is the largest number?",
+    "choices": ["0.9", "0.99", "0.909", "0.91"],
+    "answer": "0.99",
+    "explanation": "0.99 is the largest. Comparing digit by digit: 0.99 > 0.91 > 0.909 > 0.9."
+  },
+  {
+    "id": "num_beg_008",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is the next prime number after 7?",
+    "choices": ["8", "9", "10", "11"],
+    "answer": "11",
+    "explanation": "8, 9, and 10 are not prime. 11 is the next prime number after 7."
+  },
+  {
+    "id": "num_beg_009",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "If a shirt costs $40 and is 20% off, what is the sale price?",
+    "choices": ["$28", "$32", "$36", "$38"],
+    "answer": "$32",
+    "explanation": "20% of $40 = $8. Sale price = $40 - $8 = $32."
+  },
+  {
+    "id": "num_beg_010",
+    "type": "Numerical",
+    "difficulty": "Beginner",
+    "question": "What is the average of 10, 20, and 30?",
+    "choices": ["15", "20", "25", "30"],
+    "answer": "20",
+    "explanation": "(10 + 20 + 30) / 3 = 60 / 3 = 20."
+  }
+]

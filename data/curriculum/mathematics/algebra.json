@@ -1,0 +1,452 @@
+[
+  {
+    "id": "alg_001",
+    "type": "Order of Operations",
+    "difficulty": "Easy",
+    "question": "What is 3 + 4 × 2?",
+    "choices": ["14", "11", "24", "10"],
+    "answer": "11",
+    "explanation": "Multiply first: 4 × 2 = 8. Then add: 3 + 8 = 11."
+  },
+  {
+    "id": "alg_002",
+    "type": "Order of Operations",
+    "difficulty": "Easy",
+    "question": "What is (3 + 4) × 2?",
+    "choices": ["14", "11", "24", "10"],
+    "answer": "14",
+    "explanation": "Parentheses first: 3 + 4 = 7. Then multiply: 7 × 2 = 14."
+  },
+  {
+    "id": "alg_003",
+    "type": "Linear Equation",
+    "difficulty": "Easy",
+    "question": "Solve for x: 2x + 5 = 13",
+    "choices": ["3", "4", "5", "9"],
+    "answer": "4",
+    "explanation": "Subtract 5 from both sides to get 2x = 8, then divide by 2 to get x = 4."
+  },
+  {
+    "id": "alg_004",
+    "type": "Linear Equation",
+    "difficulty": "Easy",
+    "question": "Solve for x: x - 7 = 12",
+    "choices": ["5", "19", "17", "21"],
+    "answer": "19",
+    "explanation": "Add 7 to both sides: x = 12 + 7 = 19."
+  },
+  {
+    "id": "alg_005",
+    "type": "Linear Equation",
+    "difficulty": "Easy",
+    "question": "Solve for x: 3x = 21",
+    "choices": ["6", "7", "8", "9"],
+    "answer": "7",
+    "explanation": "Divide both sides by 3: x = 21 / 3 = 7."
+  },
+  {
+    "id": "alg_006",
+    "type": "Linear Equation",
+    "difficulty": "Medium",
+    "question": "Solve for x: 5x - 3 = 2x + 9",
+    "choices": ["2", "3", "4", "6"],
+    "answer": "4",
+    "explanation": "Subtract 2x from both sides: 3x - 3 = 9. Add 3: 3x = 12. Divide by 3: x = 4."
+  },
+  {
+    "id": "alg_007",
+    "type": "Linear Equation",
+    "difficulty": "Medium",
+    "question": "Solve for x: 4(x - 2) = 12",
+    "choices": ["3", "4", "5", "6"],
+    "answer": "5",
+    "explanation": "Divide by 4: x - 2 = 3. Add 2: x = 5."
+  },
+  {
+    "id": "alg_008",
+    "type": "Linear Equation",
+    "difficulty": "Medium",
+    "question": "Solve for x: x/3 + 4 = 9",
+    "choices": ["12", "15", "18", "21"],
+    "answer": "15",
+    "explanation": "Subtract 4: x/3 = 5. Multiply by 3: x = 15."
+  },
+  {
+    "id": "alg_009",
+    "type": "Slope",
+    "difficulty": "Easy",
+    "question": "What is the slope of the line y = 3x + 2?",
+    "choices": ["1", "2", "3", "5"],
+    "answer": "3",
+    "explanation": "In y = mx + b form, m is the slope. Here m = 3."
+  },
+  {
+    "id": "alg_010",
+    "type": "Slope",
+    "difficulty": "Medium",
+    "question": "What is the slope of the line through (1, 2) and (4, 11)?",
+    "choices": ["2", "3", "4", "9"],
+    "answer": "3",
+    "explanation": "Slope = (y₂ - y₁)/(x₂ - x₁) = (11 - 2)/(4 - 1) = 9/3 = 3."
+  },
+  {
+    "id": "alg_011",
+    "type": "Slope",
+    "difficulty": "Medium",
+    "question": "Which line is perpendicular to y = 2x + 1?",
+    "choices": ["y = 2x - 1", "y = -2x + 1", "y = 0.5x + 3", "y = -0.5x + 4"],
+    "answer": "y = -0.5x + 4",
+    "explanation": "Perpendicular lines have negative reciprocal slopes. Slope 2 → -1/2 = -0.5."
+  },
+  {
+    "id": "alg_012",
+    "type": "Factoring",
+    "difficulty": "Easy",
+    "question": "Factor: x² - 9",
+    "choices": ["(x - 3)(x + 3)", "(x - 9)(x + 1)", "(x - 3)²", "(x + 3)²"],
+    "answer": "(x - 3)(x + 3)",
+    "explanation": "Difference of squares: a² - b² = (a - b)(a + b)."
+  },
+  {
+    "id": "alg_013",
+    "type": "Factoring",
+    "difficulty": "Medium",
+    "question": "Factor: x² + 7x + 12",
+    "choices": ["(x + 3)(x + 4)", "(x + 2)(x + 6)", "(x + 1)(x + 12)", "(x - 3)(x - 4)"],
+    "answer": "(x + 3)(x + 4)",
+    "explanation": "Find two numbers that multiply to 12 and add to 7: 3 and 4."
+  },
+  {
+    "id": "alg_014",
+    "type": "Factoring",
+    "difficulty": "Medium",
+    "question": "Factor: x² - 5x + 6",
+    "choices": ["(x - 2)(x - 3)", "(x + 2)(x + 3)", "(x - 1)(x - 6)", "(x - 5)(x + 1)"],
+    "answer": "(x - 2)(x - 3)",
+    "explanation": "Find two numbers that multiply to 6 and add to -5: -2 and -3."
+  },
+  {
+    "id": "alg_015",
+    "type": "Factoring",
+    "difficulty": "Hard",
+    "question": "Factor: 2x² + 7x + 3",
+    "choices": ["(2x + 1)(x + 3)", "(2x + 3)(x + 1)", "(2x + 7)(x + 3)", "(x + 1)(x + 3)"],
+    "answer": "(2x + 1)(x + 3)",
+    "explanation": "Expand: 2x² + 6x + x + 3 = 2x² + 7x + 3. ✓"
+  },
+  {
+    "id": "alg_016",
+    "type": "Quadratic",
+    "difficulty": "Medium",
+    "question": "What are the solutions to x² - 4 = 0?",
+    "choices": ["x = 2 only", "x = -2 only", "x = 2 or x = -2", "x = 4 or x = -4"],
+    "answer": "x = 2 or x = -2",
+    "explanation": "x² = 4, so x = ±2."
+  },
+  {
+    "id": "alg_017",
+    "type": "Quadratic",
+    "difficulty": "Medium",
+    "question": "What are the solutions to x² - 5x + 6 = 0?",
+    "choices": ["x = 1, 6", "x = 2, 3", "x = -2, -3", "x = 5, 6"],
+    "answer": "x = 2, 3",
+    "explanation": "Factor: (x - 2)(x - 3) = 0, so x = 2 or x = 3."
+  },
+  {
+    "id": "alg_018",
+    "type": "Quadratic",
+    "difficulty": "Hard",
+    "question": "How many real solutions does x² + 4x + 5 = 0 have?",
+    "choices": ["0", "1", "2", "Infinitely many"],
+    "answer": "0",
+    "explanation": "Discriminant = b² - 4ac = 16 - 20 = -4 < 0, so no real solutions."
+  },
+  {
+    "id": "alg_019",
+    "type": "Quadratic",
+    "difficulty": "Hard",
+    "question": "What is the discriminant of 2x² - 3x + 1 = 0?",
+    "choices": ["1", "-1", "17", "-17"],
+    "answer": "1",
+    "explanation": "b² - 4ac = 9 - 8 = 1."
+  },
+  {
+    "id": "alg_020",
+    "type": "Exponents",
+    "difficulty": "Easy",
+    "question": "Simplify: x³ × x⁴",
+    "choices": ["x⁷", "x¹²", "2x⁷", "x¹"],
+    "answer": "x⁷",
+    "explanation": "When multiplying powers with the same base, add exponents: 3 + 4 = 7."
+  },
+  {
+    "id": "alg_021",
+    "type": "Exponents",
+    "difficulty": "Easy",
+    "question": "Simplify: (x²)³",
+    "choices": ["x⁵", "x⁶", "x⁸", "3x²"],
+    "answer": "x⁶",
+    "explanation": "When raising a power to a power, multiply exponents: 2 × 3 = 6."
+  },
+  {
+    "id": "alg_022",
+    "type": "Exponents",
+    "difficulty": "Medium",
+    "question": "Simplify: x⁵ / x²",
+    "choices": ["x³", "x⁷", "x¹⁰", "x²"],
+    "answer": "x³",
+    "explanation": "When dividing powers with the same base, subtract exponents: 5 - 2 = 3."
+  },
+  {
+    "id": "alg_023",
+    "type": "Exponents",
+    "difficulty": "Medium",
+    "question": "What is 2⁻³?",
+    "choices": ["-8", "-6", "1/8", "1/6"],
+    "answer": "1/8",
+    "explanation": "Negative exponents mean reciprocal: 2⁻³ = 1/2³ = 1/8."
+  },
+  {
+    "id": "alg_024",
+    "type": "Exponents",
+    "difficulty": "Medium",
+    "question": "What is 16^(1/2)?",
+    "choices": ["2", "4", "8", "256"],
+    "answer": "4",
+    "explanation": "A 1/2 exponent is a square root: √16 = 4."
+  },
+  {
+    "id": "alg_025",
+    "type": "Inequality",
+    "difficulty": "Easy",
+    "question": "Solve: x + 3 > 7",
+    "choices": ["x > 4", "x < 4", "x > 10", "x < 10"],
+    "answer": "x > 4",
+    "explanation": "Subtract 3 from both sides: x > 4."
+  },
+  {
+    "id": "alg_026",
+    "type": "Inequality",
+    "difficulty": "Medium",
+    "question": "Solve: -2x > 8",
+    "choices": ["x > -4", "x < -4", "x > 4", "x < 4"],
+    "answer": "x < -4",
+    "explanation": "Divide by -2 and flip the inequality: x < -4."
+  },
+  {
+    "id": "alg_027",
+    "type": "Inequality",
+    "difficulty": "Medium",
+    "question": "Solve: 3x - 5 ≤ 10",
+    "choices": ["x ≤ 5", "x ≥ 5", "x ≤ 15", "x ≥ 15"],
+    "answer": "x ≤ 5",
+    "explanation": "Add 5: 3x ≤ 15. Divide by 3: x ≤ 5."
+  },
+  {
+    "id": "alg_028",
+    "type": "Systems",
+    "difficulty": "Medium",
+    "question": "Solve: x + y = 10 and x - y = 4. What is x?",
+    "choices": ["3", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "Add the equations: 2x = 14, so x = 7."
+  },
+  {
+    "id": "alg_029",
+    "type": "Systems",
+    "difficulty": "Medium",
+    "question": "Solve: x + y = 10 and x - y = 4. What is y?",
+    "choices": ["2", "3", "4", "6"],
+    "answer": "3",
+    "explanation": "Subtract the equations: 2y = 6, so y = 3."
+  },
+  {
+    "id": "alg_030",
+    "type": "Systems",
+    "difficulty": "Hard",
+    "question": "Solve: 2x + y = 11 and x - y = 1. What is x?",
+    "choices": ["3", "4", "5", "6"],
+    "answer": "4",
+    "explanation": "Add the equations: 3x = 12, so x = 4."
+  },
+  {
+    "id": "alg_031",
+    "type": "Word Problem",
+    "difficulty": "Easy",
+    "question": "A number increased by 8 is 15. What is the number?",
+    "choices": ["5", "7", "8", "23"],
+    "answer": "7",
+    "explanation": "x + 8 = 15, so x = 7."
+  },
+  {
+    "id": "alg_032",
+    "type": "Word Problem",
+    "difficulty": "Medium",
+    "question": "Twice a number decreased by 5 is 11. What is the number?",
+    "choices": ["6", "8", "11", "16"],
+    "answer": "8",
+    "explanation": "2x - 5 = 11, so 2x = 16, x = 8."
+  },
+  {
+    "id": "alg_033",
+    "type": "Word Problem",
+    "difficulty": "Medium",
+    "question": "The sum of three consecutive integers is 48. What is the smallest?",
+    "choices": ["14", "15", "16", "17"],
+    "answer": "15",
+    "explanation": "x + (x+1) + (x+2) = 48 → 3x + 3 = 48 → x = 15."
+  },
+  {
+    "id": "alg_034",
+    "type": "Word Problem",
+    "difficulty": "Medium",
+    "question": "A shirt costs $25 after a 20% discount. What was the original price?",
+    "choices": ["$30", "$31.25", "$32", "$45"],
+    "answer": "$31.25",
+    "explanation": "0.8x = 25 → x = 25 / 0.8 = $31.25."
+  },
+  {
+    "id": "alg_035",
+    "type": "Word Problem",
+    "difficulty": "Hard",
+    "question": "A train leaves at 60 km/h. A second train leaves 2 hours later at 90 km/h in the same direction. How long after the second train leaves will it catch up?",
+    "choices": ["2 hours", "3 hours", "4 hours", "6 hours"],
+    "answer": "4 hours",
+    "explanation": "First train has 120 km head start. Relative speed = 30 km/h. Time = 120/30 = 4 hours."
+  },
+  {
+    "id": "alg_036",
+    "type": "Radicals",
+    "difficulty": "Easy",
+    "question": "Simplify: √49",
+    "choices": ["6", "7", "8", "24.5"],
+    "answer": "7",
+    "explanation": "7 × 7 = 49."
+  },
+  {
+    "id": "alg_037",
+    "type": "Radicals",
+    "difficulty": "Medium",
+    "question": "Simplify: √50",
+    "choices": ["5√2", "2√5", "10√5", "25√2"],
+    "answer": "5√2",
+    "explanation": "√50 = √(25 × 2) = 5√2."
+  },
+  {
+    "id": "alg_038",
+    "type": "Radicals",
+    "difficulty": "Medium",
+    "question": "Simplify: √8 + √2",
+    "choices": ["√10", "3√2", "2√2", "√16"],
+    "answer": "3√2",
+    "explanation": "√8 = 2√2. So 2√2 + √2 = 3√2."
+  },
+  {
+    "id": "alg_039",
+    "type": "Rational Expressions",
+    "difficulty": "Medium",
+    "question": "Simplify: (x² - 4) / (x - 2)",
+    "choices": ["x + 2", "x - 2", "x² + 2", "x² - 2"],
+    "answer": "x + 2",
+    "explanation": "Factor numerator: (x - 2)(x + 2) / (x - 2) = x + 2."
+  },
+  {
+    "id": "alg_040",
+    "type": "Rational Expressions",
+    "difficulty": "Hard",
+    "question": "Simplify: (x² + 5x + 6) / (x² + 4x + 3)",
+    "choices": ["(x + 2)/(x + 1)", "(x + 3)/(x + 1)", "(x + 1)/(x + 2)", "(x + 2)(x + 3)"],
+    "answer": "(x + 2)/(x + 1)",
+    "explanation": "Numerator: (x+2)(x+3). Denominator: (x+1)(x+3). Cancel (x+3)."
+  },
+  {
+    "id": "alg_041",
+    "type": "Function",
+    "difficulty": "Easy",
+    "question": "If f(x) = 2x + 1, what is f(3)?",
+    "choices": ["5", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "f(3) = 2(3) + 1 = 7."
+  },
+  {
+    "id": "alg_042",
+    "type": "Function",
+    "difficulty": "Medium",
+    "question": "If f(x) = x² - 3x, what is f(-2)?",
+    "choices": ["-10", "-2", "2", "10"],
+    "answer": "10",
+    "explanation": "f(-2) = (-2)² - 3(-2) = 4 + 6 = 10."
+  },
+  {
+    "id": "alg_043",
+    "type": "Function",
+    "difficulty": "Medium",
+    "question": "If f(x) = 3x + 2 and g(x) = x - 1, what is f(g(2))?",
+    "choices": ["5", "7", "8", "11"],
+    "answer": "5",
+    "explanation": "g(2) = 1. f(1) = 3(1) + 2 = 5."
+  },
+  {
+    "id": "alg_044",
+    "type": "Sequence",
+    "difficulty": "Easy",
+    "question": "What comes next: 2, 4, 6, 8, ___?",
+    "choices": ["9", "10", "11", "12"],
+    "answer": "10",
+    "explanation": "Arithmetic sequence with common difference 2."
+  },
+  {
+    "id": "alg_045",
+    "type": "Sequence",
+    "difficulty": "Medium",
+    "question": "What comes next: 1, 4, 9, 16, ___?",
+    "choices": ["20", "24", "25", "36"],
+    "answer": "25",
+    "explanation": "Perfect squares: 1², 2², 3², 4², 5² = 25."
+  },
+  {
+    "id": "alg_046",
+    "type": "Sequence",
+    "difficulty": "Medium",
+    "question": "What is the 10th term of 3, 7, 11, 15, ___?",
+    "choices": ["39", "40", "43", "47"],
+    "answer": "39",
+    "explanation": "Arithmetic: aₙ = 3 + (n-1)×4. For n=10: 3 + 36 = 39."
+  },
+  {
+    "id": "alg_047",
+    "type": "Ratio & Proportion",
+    "difficulty": "Medium",
+    "question": "If 3 pencils cost $1.50, how much do 8 pencils cost?",
+    "choices": ["$3.00", "$4.00", "$4.50", "$5.00"],
+    "answer": "$4.00",
+    "explanation": "One pencil = $0.50. 8 × $0.50 = $4.00."
+  },
+  {
+    "id": "alg_048",
+    "type": "Ratio & Proportion",
+    "difficulty": "Medium",
+    "question": "Solve for x: 4/6 = x/9",
+    "choices": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "Cross-multiply: 4 × 9 = 6x → 36 = 6x → x = 6."
+  },
+  {
+    "id": "alg_049",
+    "type": "Absolute Value",
+    "difficulty": "Medium",
+    "question": "Solve: |x - 3| = 5",
+    "choices": ["x = 8 only", "x = -2 only", "x = 8 or x = -2", "x = 5 or x = -5"],
+    "answer": "x = 8 or x = -2",
+    "explanation": "x - 3 = 5 → x = 8. Or x - 3 = -5 → x = -2."
+  },
+  {
+    "id": "alg_050",
+    "type": "Absolute Value",
+    "difficulty": "Hard",
+    "question": "Solve: |2x + 1| < 7",
+    "choices": ["-4 < x < 3", "-3 < x < 4", "x < 3", "x > -4"],
+    "answer": "-4 < x < 3",
+    "explanation": "-7 < 2x + 1 < 7 → -8 < 2x < 6 → -4 < x < 3."
+  }
+]

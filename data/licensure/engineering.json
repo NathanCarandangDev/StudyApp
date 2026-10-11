@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eng_001",
+    "type": "Physics",
+    "difficulty": "Medium",
+    "question": "What is Newton's Second Law of Motion?",
+    "choices": ["F = ma", "E = mc²", "F = mv", "P = mv"],
+    "answer": "F = ma",
+    "explanation": "Newton's Second Law states that force equals mass times acceleration (F = ma)."
+  },
+  {
+    "id": "eng_002",
+    "type": "Mathematics",
+    "difficulty": "Medium",
+    "question": "What is the integral of 2x?",
+    "choices": ["x²", "x² + C", "2x²", "2"],
+    "answer": "x² + C",
+    "explanation": "The integral of 2x is x² + C, where C is the constant of integration."
+  },
+  {
+    "id": "eng_003",
+    "type": "Engineering",
+    "difficulty": "Medium",
+    "question": "What does Ohm's Law state?",
+    "choices": ["V = IR", "P = IV", "F = ma", "E = mc²"],
+    "answer": "V = IR",
+    "explanation": "Ohm's Law states that voltage equals current times resistance (V = IR)."
+  },
+  {
+    "id": "eng_004",
+    "type": "Physics",
+    "difficulty": "Medium",
+    "question": "What is the unit of electrical resistance?",
+    "choices": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ohm",
+    "explanation": "The ohm (Ω) is the SI unit of electrical resistance."
+  },
+  {
+    "id": "eng_005",
+    "type": "Engineering",
+    "difficulty": "Hard",
+    "question": "What is the purpose of a transformer?",
+    "choices": ["Convert AC to DC", "Change voltage levels", "Store energy", "Generate electricity"],
+    "answer": "Change voltage levels",
+    "explanation": "A transformer changes AC voltage levels up or down using electromagnetic induction."
+  },
+  {
+    "id": "eng_006",
+    "type": "Mathematics",
+    "difficulty": "Hard",
+    "question": "What is the derivative of sin(x)?",
+    "choices": ["cos(x)", "-cos(x)", "tan(x)", "-sin(x)"],
+    "answer": "cos(x)",
+    "explanation": "The derivative of sin(x) is cos(x)."
+  },
+  {
+    "id": "eng_007",
+    "type": "Engineering",
+    "difficulty": "Medium",
+    "question": "Which material is a semiconductor?",
+    "choices": ["Copper", "Silicon", "Rubber", "Glass"],
+    "answer": "Silicon",
+    "explanation": "Silicon is the most commonly used semiconductor material in electronics."
+  },
+  {
+    "id": "eng_008",
+    "type": "Physics",
+    "difficulty": "Hard",
+    "question": "What is the speed of sound in air at sea level approximately?",
+    "choices": ["343 m/s", "343 km/s", "3,430 m/s", "34.3 m/s"],
+    "answer": "343 m/s",
+    "explanation": "The speed of sound in air at sea level (20°C) is approximately 343 m/s."
+  },
+  {
+    "id": "eng_009",
+    "type": "Engineering",
+    "difficulty": "Medium",
+    "question": "What does CAD stand for in engineering?",
+    "choices": ["Computer Aided Design", "Central Analysis Data", "Calculated Applied Dynamics", "Computer Automated Drawing"],
+    "answer": "Computer Aided Design",
+    "explanation": "CAD stands for Computer Aided Design, used for creating technical drawings and 3D models."
+  },
+  {
+    "id": "eng_010",
+    "type": "Mathematics",
+    "difficulty": "Hard",
+    "question": "What is the value of π (pi) to 4 decimal places?",
+    "choices": ["3.1415", "3.1416", "3.1420", "3.1412"],
+    "answer": "3.1416",
+    "explanation": "π ≈ 3.14159265..., which rounds to 3.1416 at 4 decimal places."
+  }
+]

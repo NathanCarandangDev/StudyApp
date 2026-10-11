@@ -1,0 +1,92 @@
+[
+  {
+    "id": "log_int_001",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "If no A are B, and some C are A, which must be true?",
+    "choices": ["Some C are B", "No C are B", "Some C are not B", "All C are B"],
+    "answer": "Some C are not B",
+    "explanation": "Since some C are A and no A are B, those C that are A cannot be B. So some C are not B."
+  },
+  {
+    "id": "log_int_002",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "What comes next: 2, 6, 18, 54, ___?",
+    "choices": ["108", "162", "148", "172"],
+    "answer": "162",
+    "explanation": "Each number is multiplied by 3: 2×3=6, 6×3=18, 18×3=54, 54×3=162."
+  },
+  {
+    "id": "log_int_003",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "All roses are flowers. Some flowers fade quickly. Can we conclude some roses fade quickly?",
+    "choices": ["Yes", "No", "Not necessarily", "All roses fade"],
+    "answer": "Not necessarily",
+    "explanation": "The flowers that fade quickly may not include roses. We cannot conclude this from the given premises."
+  },
+  {
+    "id": "log_int_004",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "If P implies Q, and Q is false, what can we conclude about P?",
+    "choices": ["P is true", "P is false", "P is unknown", "P implies not Q"],
+    "answer": "P is false",
+    "explanation": "This is modus tollens: If P→Q and Q is false, then P must be false."
+  },
+  {
+    "id": "log_int_005",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "A, B, and C are in a race. A finished before B. C finished after B. Who finished last?",
+    "choices": ["A", "B", "C", "Cannot determine"],
+    "answer": "C",
+    "explanation": "A before B, and C after B means: A → B → C. C finished last."
+  },
+  {
+    "id": "log_int_006",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "Which argument is a logical fallacy?",
+    "choices": ["All men are mortal. Socrates is a man. Socrates is mortal.", "It rained after I washed my car, so washing causes rain.", "If it snows, school closes. It snowed. School closed.", "No reptiles are mammals. Dogs are mammals. No dogs are reptiles."],
+    "answer": "It rained after I washed my car, so washing causes rain.",
+    "explanation": "This is the post hoc fallacy: assuming causation from mere correlation or sequence."
+  },
+  {
+    "id": "log_int_007",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "What comes next: 1, 3, 6, 10, 15, ___?",
+    "choices": ["19", "20", "21", "25"],
+    "answer": "21",
+    "explanation": "These are triangular numbers. Each adds the next integer: +2, +3, +4, +5, +6. 15+6=21."
+  },
+  {
+    "id": "log_int_008",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "If some A are B and all B are C, which must be true?",
+    "choices": ["All A are C", "Some A are C", "No A are C", "All C are A"],
+    "answer": "Some A are C",
+    "explanation": "Some A are B, and all B are C, so those A that are B are also C. Therefore some A are C."
+  },
+  {
+    "id": "log_int_009",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "In a group, everyone who wears glasses reads. Sarah reads. Does Sarah wear glasses?",
+    "choices": ["Yes", "No", "Not necessarily", "Impossible to say"],
+    "answer": "Not necessarily",
+    "explanation": "The premise says glasses-wearers read, but not that only glasses-wearers read. Sarah may read without glasses."
+  },
+  {
+    "id": "log_int_010",
+    "type": "Logical",
+    "difficulty": "Intermediate",
+    "question": "Which is the odd one out: triangle, square, circle, rectangle?",
+    "choices": ["Triangle", "Square", "Circle", "Rectangle"],
+    "answer": "Circle",
+    "explanation": "Triangle, square, and rectangle are polygons with straight edges. A circle has no straight edges."
+  }
+]

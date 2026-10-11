@@ -1,0 +1,452 @@
+[
+  {
+    "id": "calc_001",
+    "type": "Limits",
+    "difficulty": "Easy",
+    "question": "What is lim(x→2) (x + 3)?",
+    "choices": ["2", "3", "5", "6"],
+    "answer": "5",
+    "explanation": "Direct substitution: 2 + 3 = 5."
+  },
+  {
+    "id": "calc_002",
+    "type": "Limits",
+    "difficulty": "Easy",
+    "question": "What is lim(x→0) (x² + 1)?",
+    "choices": ["0", "1", "2", "Undefined"],
+    "answer": "1",
+    "explanation": "Direct substitution: 0² + 1 = 1."
+  },
+  {
+    "id": "calc_003",
+    "type": "Limits",
+    "difficulty": "Medium",
+    "question": "What is lim(x→3) (x² - 9)/(x - 3)?",
+    "choices": ["0", "3", "6", "Undefined"],
+    "answer": "6",
+    "explanation": "Factor: (x-3)(x+3)/(x-3) = x+3. At x=3: 6."
+  },
+  {
+    "id": "calc_004",
+    "type": "Limits",
+    "difficulty": "Medium",
+    "question": "What is lim(x→∞) (1/x)?",
+    "choices": ["0", "1", "∞", "Undefined"],
+    "answer": "0",
+    "explanation": "As x grows without bound, 1/x approaches 0."
+  },
+  {
+    "id": "calc_005",
+    "type": "Limits",
+    "difficulty": "Medium",
+    "question": "What is lim(x→0) (sin x)/x?",
+    "choices": ["0", "1", "∞", "Undefined"],
+    "answer": "1",
+    "explanation": "This is a standard limit: lim(x→0) sin(x)/x = 1."
+  },
+  {
+    "id": "calc_006",
+    "type": "Limits",
+    "difficulty": "Hard",
+    "question": "What is lim(x→∞) (3x² + 2x)/(x² - 1)?",
+    "choices": ["0", "1", "3", "∞"],
+    "answer": "3",
+    "explanation": "Divide by highest power x²: (3 + 2/x)/(1 - 1/x²) → 3/1 = 3."
+  },
+  {
+    "id": "calc_007",
+    "type": "Derivative Basics",
+    "difficulty": "Easy",
+    "question": "What is the derivative of f(x) = 5?",
+    "choices": ["0", "1", "5", "5x"],
+    "answer": "0",
+    "explanation": "The derivative of a constant is always 0."
+  },
+  {
+    "id": "calc_008",
+    "type": "Derivative Basics",
+    "difficulty": "Easy",
+    "question": "What is the derivative of f(x) = x?",
+    "choices": ["0", "1", "x", "x²"],
+    "answer": "1",
+    "explanation": "d/dx (x) = 1."
+  },
+  {
+    "id": "calc_009",
+    "type": "Power Rule",
+    "difficulty": "Easy",
+    "question": "What is the derivative of f(x) = x³?",
+    "choices": ["x²", "3x²", "3x", "x⁴/4"],
+    "answer": "3x²",
+    "explanation": "Power rule: d/dx xⁿ = n·xⁿ⁻¹. So 3x²."
+  },
+  {
+    "id": "calc_010",
+    "type": "Power Rule",
+    "difficulty": "Easy",
+    "question": "What is the derivative of f(x) = x⁵?",
+    "choices": ["5x⁴", "x⁴", "5x⁶", "x⁶/6"],
+    "answer": "5x⁴",
+    "explanation": "Power rule: 5x⁴."
+  },
+  {
+    "id": "calc_011",
+    "type": "Power Rule",
+    "difficulty": "Medium",
+    "question": "What is the derivative of f(x) = 4x³?",
+    "choices": ["4x²", "12x²", "12x³", "3x²"],
+    "answer": "12x²",
+    "explanation": "Constant × power rule: 4 × 3x² = 12x²."
+  },
+  {
+    "id": "calc_012",
+    "type": "Power Rule",
+    "difficulty": "Medium",
+    "question": "What is the derivative of f(x) = √x?",
+    "choices": ["1/(2√x)", "2√x", "1/√x", "√x/2"],
+    "answer": "1/(2√x)",
+    "explanation": "√x = x^(1/2). d/dx = (1/2)x^(-1/2) = 1/(2√x)."
+  },
+  {
+    "id": "calc_013",
+    "type": "Power Rule",
+    "difficulty": "Medium",
+    "question": "What is the derivative of f(x) = 1/x?",
+    "choices": ["-1/x²", "1/x²", "-1/x", "ln x"],
+    "answer": "-1/x²",
+    "explanation": "1/x = x⁻¹. d/dx = -1·x⁻² = -1/x²."
+  },
+  {
+    "id": "calc_014",
+    "type": "Trig Derivatives",
+    "difficulty": "Medium",
+    "question": "What is the derivative of sin(x)?",
+    "choices": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "answer": "cos(x)",
+    "explanation": "d/dx sin(x) = cos(x)."
+  },
+  {
+    "id": "calc_015",
+    "type": "Trig Derivatives",
+    "difficulty": "Medium",
+    "question": "What is the derivative of cos(x)?",
+    "choices": ["sin(x)", "-sin(x)", "cos(x)", "-cos(x)"],
+    "answer": "-sin(x)",
+    "explanation": "d/dx cos(x) = -sin(x)."
+  },
+  {
+    "id": "calc_016",
+    "type": "Trig Derivatives",
+    "difficulty": "Hard",
+    "question": "What is the derivative of tan(x)?",
+    "choices": ["sec(x)", "sec²(x)", "csc²(x)", "-sec²(x)"],
+    "answer": "sec²(x)",
+    "explanation": "d/dx tan(x) = sec²(x)."
+  },
+  {
+    "id": "calc_017",
+    "type": "Exponential Derivatives",
+    "difficulty": "Medium",
+    "question": "What is the derivative of eˣ?",
+    "choices": ["eˣ", "xeˣ", "eˣ/x", "ln(x)"],
+    "answer": "eˣ",
+    "explanation": "The derivative of eˣ is itself: eˣ."
+  },
+  {
+    "id": "calc_018",
+    "type": "Exponential Derivatives",
+    "difficulty": "Hard",
+    "question": "What is the derivative of aˣ (where a > 0)?",
+    "choices": ["aˣ", "x·aˣ⁻¹", "aˣ·ln(a)", "aˣ/ln(a)"],
+    "answer": "aˣ·ln(a)",
+    "explanation": "d/dx aˣ = aˣ · ln(a)."
+  },
+  {
+    "id": "calc_019",
+    "type": "Log Derivatives",
+    "difficulty": "Medium",
+    "question": "What is the derivative of ln(x)?",
+    "choices": ["1/x", "x", "eˣ", "ln(x)/x"],
+    "answer": "1/x",
+    "explanation": "d/dx ln(x) = 1/x."
+  },
+  {
+    "id": "calc_020",
+    "type": "Product Rule",
+    "difficulty": "Medium",
+    "question": "What is the derivative of f(x) = x·sin(x)?",
+    "choices": ["cos(x)", "sin(x) + x·cos(x)", "x·cos(x)", "sin(x)·cos(x)"],
+    "answer": "sin(x) + x·cos(x)",
+    "explanation": "Product rule: (u·v)' = u'v + uv'. Here: 1·sin(x) + x·cos(x)."
+  },
+  {
+    "id": "calc_021",
+    "type": "Product Rule",
+    "difficulty": "Hard",
+    "question": "What is the derivative of f(x) = x²·eˣ?",
+    "choices": ["2x·eˣ", "x²·eˣ", "eˣ(x² + 2x)", "2x + eˣ"],
+    "answer": "eˣ(x² + 2x)",
+    "explanation": "Product rule: 2x·eˣ + x²·eˣ = eˣ(2x + x²)."
+  },
+  {
+    "id": "calc_022",
+    "type": "Quotient Rule",
+    "difficulty": "Hard",
+    "question": "What is the derivative of f(x) = sin(x)/x?",
+    "choices": ["cos(x)/x", "(x·cos(x) - sin(x))/x²", "(sin(x) - x·cos(x))/x²", "cos(x)"],
+    "answer": "(x·cos(x) - sin(x))/x²",
+    "explanation": "Quotient rule: (u'v - uv')/v². Here u=sin(x), v=x."
+  },
+  {
+    "id": "calc_023",
+    "type": "Chain Rule",
+    "difficulty": "Medium",
+    "question": "What is the derivative of f(x) = (2x + 1)³?",
+    "choices": ["3(2x + 1)²", "6(2x + 1)²", "6(2x + 1)³", "(2x + 1)²"],
+    "answer": "6(2x + 1)²",
+    "explanation": "Chain rule: 3(2x+1)² · 2 = 6(2x+1)²."
+  },
+  {
+    "id": "calc_024",
+    "type": "Chain Rule",
+    "difficulty": "Hard",
+    "question": "What is the derivative of f(x) = sin(x²)?",
+    "choices": ["cos(x²)", "2x·cos(x²)", "2x·sin(x²)", "x²·cos(x²)"],
+    "answer": "2x·cos(x²)",
+    "explanation": "Chain rule: cos(x²) · 2x = 2x·cos(x²)."
+  },
+  {
+    "id": "calc_025",
+    "type": "Chain Rule",
+    "difficulty": "Hard",
+    "question": "What is the derivative of f(x) = e^(3x)?",
+    "choices": ["e^(3x)", "3e^(3x)", "3xe^(3x)", "e^(3x)/3"],
+    "answer": "3e^(3x)",
+    "explanation": "Chain rule: e^(3x) · 3 = 3e^(3x)."
+  },
+  {
+    "id": "calc_026",
+    "type": "Higher Derivatives",
+    "difficulty": "Medium",
+    "question": "If f(x) = x³, what is f''(x)?",
+    "choices": ["3x²", "6x", "6", "x²"],
+    "answer": "6x",
+    "explanation": "f'(x) = 3x². f''(x) = 6x."
+  },
+  {
+    "id": "calc_027",
+    "type": "Higher Derivatives",
+    "difficulty": "Medium",
+    "question": "If f(x) = x⁴, what is f''(x)?",
+    "choices": ["4x³", "12x²", "24x", "24"],
+    "answer": "12x²",
+    "explanation": "f'(x) = 4x³. f''(x) = 12x²."
+  },
+  {
+    "id": "calc_028",
+    "type": "Critical Points",
+    "difficulty": "Medium",
+    "question": "Where does f(x) = x² - 4x have a critical point?",
+    "choices": ["x = 0", "x = 2", "x = 4", "x = -2"],
+    "answer": "x = 2",
+    "explanation": "f'(x) = 2x - 4 = 0 → x = 2."
+  },
+  {
+    "id": "calc_029",
+    "type": "Critical Points",
+    "difficulty": "Hard",
+    "question": "Where does f(x) = x³ - 3x have critical points?",
+    "choices": ["x = 1 only", "x = -1 only", "x = 1 and x = -1", "x = 3 and x = -3"],
+    "answer": "x = 1 and x = -1",
+    "explanation": "f'(x) = 3x² - 3 = 0 → x² = 1 → x = ±1."
+  },
+  {
+    "id": "calc_030",
+    "type": "Applications",
+    "difficulty": "Medium",
+    "question": "The position of a particle is s(t) = t² + 3t. What is its velocity at t = 2?",
+    "choices": ["4", "7", "10", "12"],
+    "answer": "7",
+    "explanation": "v(t) = s'(t) = 2t + 3. v(2) = 4 + 3 = 7."
+  },
+  {
+    "id": "calc_031",
+    "type": "Applications",
+    "difficulty": "Hard",
+    "question": "If s(t) = t³, what is the acceleration at t = 2?",
+    "choices": ["6", "8", "12", "24"],
+    "answer": "12",
+    "explanation": "v(t) = 3t². a(t) = 6t. a(2) = 12."
+  },
+  {
+    "id": "calc_032",
+    "type": "Integral Basics",
+    "difficulty": "Easy",
+    "question": "What is ∫ 0 dx?",
+    "choices": ["0", "C", "x", "x + C"],
+    "answer": "C",
+    "explanation": "The integral of 0 is a constant C."
+  },
+  {
+    "id": "calc_033",
+    "type": "Integral Basics",
+    "difficulty": "Easy",
+    "question": "What is ∫ 1 dx?",
+    "choices": ["0", "C", "x + C", "x²/2 + C"],
+    "answer": "x + C",
+    "explanation": "The integral of 1 with respect to x is x + C."
+  },
+  {
+    "id": "calc_034",
+    "type": "Power Rule Integration",
+    "difficulty": "Easy",
+    "question": "What is ∫ x dx?",
+    "choices": ["x + C", "x² + C", "x²/2 + C", "2x + C"],
+    "answer": "x²/2 + C",
+    "explanation": "Power rule: ∫xⁿ dx = xⁿ⁺¹/(n+1) + C. Here n=1: x²/2 + C."
+  },
+  {
+    "id": "calc_035",
+    "type": "Power Rule Integration",
+    "difficulty": "Medium",
+    "question": "What is ∫ x² dx?",
+    "choices": ["2x + C", "x³ + C", "x³/3 + C", "3x² + C"],
+    "answer": "x³/3 + C",
+    "explanation": "∫x² dx = x³/3 + C."
+  },
+  {
+    "id": "calc_036",
+    "type": "Power Rule Integration",
+    "difficulty": "Medium",
+    "question": "What is ∫ x³ dx?",
+    "choices": ["3x² + C", "x⁴ + C", "x⁴/4 + C", "x³/3 + C"],
+    "answer": "x⁴/4 + C",
+    "explanation": "∫x³ dx = x⁴/4 + C."
+  },
+  {
+    "id": "calc_037",
+    "type": "Trig Integration",
+    "difficulty": "Medium",
+    "question": "What is ∫ cos(x) dx?",
+    "choices": ["sin(x) + C", "-sin(x) + C", "cos(x) + C", "-cos(x) + C"],
+    "answer": "sin(x) + C",
+    "explanation": "∫cos(x) dx = sin(x) + C."
+  },
+  {
+    "id": "calc_038",
+    "type": "Trig Integration",
+    "difficulty": "Medium",
+    "question": "What is ∫ sin(x) dx?",
+    "choices": ["sin(x) + C", "-cos(x) + C", "cos(x) + C", "-sin(x) + C"],
+    "answer": "-cos(x) + C",
+    "explanation": "∫sin(x) dx = -cos(x) + C."
+  },
+  {
+    "id": "calc_039",
+    "type": "Exponential Integration",
+    "difficulty": "Medium",
+    "question": "What is ∫ eˣ dx?",
+    "choices": ["eˣ + C", "xeˣ + C", "eˣ/x + C", "ln(x) + C"],
+    "answer": "eˣ + C",
+    "explanation": "The integral of eˣ is eˣ + C."
+  },
+  {
+    "id": "calc_040",
+    "type": "Exponential Integration",
+    "difficulty": "Hard",
+    "question": "What is ∫ e^(2x) dx?",
+    "choices": ["e^(2x) + C", "2e^(2x) + C", "e^(2x)/2 + C", "ln(2x) + C"],
+    "answer": "e^(2x)/2 + C",
+    "explanation": "Substitution u = 2x: (1/2)∫e^u du = e^(2x)/2 + C."
+  },
+  {
+    "id": "calc_041",
+    "type": "Integration by Substitution",
+    "difficulty": "Hard",
+    "question": "What is ∫ 2x·cos(x²) dx?",
+    "choices": ["sin(x²) + C", "-sin(x²) + C", "2x·sin(x²) + C", "cos(x²) + C"],
+    "answer": "sin(x²) + C",
+    "explanation": "Let u = x². du = 2x dx. ∫cos(u) du = sin(u) + C."
+  },
+  {
+    "id": "calc_042",
+    "type": "Definite Integrals",
+    "difficulty": "Medium",
+    "question": "What is ∫₀¹ x dx?",
+    "choices": ["0", "1/2", "1", "2"],
+    "answer": "1/2",
+    "explanation": "Antiderivative x²/2. Evaluate 1/2 - 0 = 1/2."
+  },
+  {
+    "id": "calc_043",
+    "type": "Definite Integrals",
+    "difficulty": "Medium",
+    "question": "What is ∫₀² x² dx?",
+    "choices": ["4/3", "8/3", "4", "8"],
+    "answer": "8/3",
+    "explanation": "Antiderivative x³/3. Evaluate 8/3 - 0 = 8/3."
+  },
+  {
+    "id": "calc_044",
+    "type": "Definite Integrals",
+    "difficulty": "Hard",
+    "question": "What is ∫₁² (2x + 1) dx?",
+    "choices": ["3", "4", "5", "6"],
+    "answer": "4",
+    "explanation": "Antiderivative x² + x. Evaluate (4 + 2) - (1 + 1) = 6 - 2 = 4."
+  },
+  {
+    "id": "calc_045",
+    "type": "Area Under Curve",
+    "difficulty": "Hard",
+    "question": "What is the area under f(x) = x from x = 0 to x = 3?",
+    "choices": ["3", "4.5", "6", "9"],
+    "answer": "4.5",
+    "explanation": "∫₀³ x dx = [x²/2] from 0 to 3 = 9/2 = 4.5."
+  },
+  {
+    "id": "calc_046",
+    "type": "Mean Value Theorem",
+    "difficulty": "Hard",
+    "question": "If f(x) = x² on [0, 2], what value of c satisfies the Mean Value Theorem?",
+    "choices": ["0.5", "1", "1.5", "2"],
+    "answer": "1",
+    "explanation": "f'(c) = (f(2)-f(0))/(2-0) = 4/2 = 2. 2c = 2 → c = 1."
+  },
+  {
+    "id": "calc_047",
+    "type": "Optimization",
+    "difficulty": "Hard",
+    "question": "A rectangle has perimeter 20. What's the maximum area?",
+    "choices": ["20", "24", "25", "100"],
+    "answer": "25",
+    "explanation": "Maximum area for a fixed perimeter is a square: side = 5, area = 25."
+  },
+  {
+    "id": "calc_048",
+    "type": "Related Rates",
+    "difficulty": "Hard",
+    "question": "A circle's radius grows at 2 cm/s. How fast is the area growing when r = 5 cm?",
+    "choices": ["10π cm²/s", "20π cm²/s", "25π cm²/s", "50π cm²/s"],
+    "answer": "20π cm²/s",
+    "explanation": "A = πr². dA/dt = 2πr · dr/dt = 2π(5)(2) = 20π."
+  },
+  {
+    "id": "calc_049",
+    "type": "Continuity",
+    "difficulty": "Medium",
+    "question": "Is f(x) = 1/x continuous at x = 0?",
+    "choices": ["Yes", "No, undefined", "No, jump", "Depends"],
+    "answer": "No, undefined",
+    "explanation": "1/x is undefined at x = 0, so it's not continuous there."
+  },
+  {
+    "id": "calc_050",
+    "type": "Mixed Review",
+    "difficulty": "Hard",
+    "question": "What is d/dx [x² · ln(x)]?",
+    "choices": ["2x·ln(x)", "x", "2x·ln(x) + x", "2x + 1/x"],
+    "answer": "2x·ln(x) + x",
+    "explanation": "Product rule: 2x·ln(x) + x²·(1/x) = 2x·ln(x) + x."
+  }
+]

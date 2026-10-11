@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vrb_beg_001",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "What is a synonym for 'happy'?",
+    "choices": ["Sad", "Joyful", "Angry", "Tired"],
+    "answer": "Joyful",
+    "explanation": "Joyful means feeling or expressing great happiness, making it a synonym for happy."
+  },
+  {
+    "id": "vrb_beg_002",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "What is the opposite of 'hot'?",
+    "choices": ["Warm", "Cold", "Boiling", "Spicy"],
+    "answer": "Cold",
+    "explanation": "Cold is the direct antonym (opposite) of hot."
+  },
+  {
+    "id": "vrb_beg_003",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "Which word does not belong: dog, cat, table, bird?",
+    "choices": ["Dog", "Cat", "Table", "Bird"],
+    "answer": "Table",
+    "explanation": "Dog, cat, and bird are all animals. Table is furniture, not an animal."
+  },
+  {
+    "id": "vrb_beg_004",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "Complete the analogy: Day is to Night as Summer is to ___",
+    "choices": ["Spring", "Winter", "Autumn", "Fall"],
+    "answer": "Winter",
+    "explanation": "Day and night are opposites. Summer and winter are opposite seasons."
+  },
+  {
+    "id": "vrb_beg_005",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "What does 'enormous' mean?",
+    "choices": ["Very small", "Very large", "Very fast", "Very slow"],
+    "answer": "Very large",
+    "explanation": "Enormous means extremely large in size or amount."
+  },
+  {
+    "id": "vrb_beg_006",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "Which word is a noun?",
+    "choices": ["Quickly", "Beautiful", "Mountain", "Run"],
+    "answer": "Mountain",
+    "explanation": "Mountain is a noun (a thing). Quickly is an adverb, beautiful is an adjective, and run is a verb."
+  },
+  {
+    "id": "vrb_beg_007",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "What is a synonym for 'quick'?",
+    "choices": ["Slow", "Fast", "Heavy", "Light"],
+    "answer": "Fast",
+    "explanation": "Fast and quick both mean moving or acting at high speed."
+  },
+  {
+    "id": "vrb_beg_008",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "Which word rhymes with 'cat'?",
+    "choices": ["Dog", "Bat", "Fish", "Bird"],
+    "answer": "Bat",
+    "explanation": "Bat and cat share the same ending sound '-at'."
+  },
+  {
+    "id": "vrb_beg_009",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "What does the phrase 'break the ice' mean?",
+    "choices": ["Destroy something", "Start a conversation", "Freeze water", "Fall down"],
+    "answer": "Start a conversation",
+    "explanation": "'Break the ice' is an idiom meaning to initiate social interaction in an awkward or tense situation."
+  },
+  {
+    "id": "vrb_beg_010",
+    "type": "Verbal",
+    "difficulty": "Beginner",
+    "question": "Which word is spelled correctly?",
+    "choices": ["Recieve", "Receive", "Receve", "Recive"],
+    "answer": "Receive",
+    "explanation": "The correct spelling follows the rule 'i before e except after c': receive."
+  }
+]

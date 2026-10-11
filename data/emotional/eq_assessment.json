@@ -1,0 +1,182 @@
+[
+  {
+    "id": "eq_001",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "Your friend cancels plans last minute. How do you respond?",
+    "choices": ["Get angry and confront them", "Feel hurt but say nothing", "Ask if everything is okay and reschedule", "Ignore them completely"],
+    "answer": "Ask if everything is okay and reschedule",
+    "explanation": "Showing empathy and understanding while also communicating your needs demonstrates high emotional intelligence."
+  },
+  {
+    "id": "eq_002",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You receive harsh criticism at work. What's the best response?",
+    "choices": ["Defend yourself immediately", "Listen, reflect, and ask for specific feedback", "Complain to coworkers", "Quit on the spot"],
+    "answer": "Listen, reflect, and ask for specific feedback",
+    "explanation": "Handling criticism constructively shows emotional regulation and a growth mindset."
+  },
+  {
+    "id": "eq_003",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "A colleague takes credit for your idea. What do you do?",
+    "choices": ["Yell at them in front of everyone", "Let it go and never speak again", "Privately discuss your concerns with them", "Gossip about them to others"],
+    "answer": "Privately discuss your concerns with them",
+    "explanation": "Addressing issues directly and privately shows maturity and effective communication skills."
+  },
+  {
+    "id": "eq_004",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You're feeling overwhelmed with work. What's the healthiest approach?",
+    "choices": ["Push through without sleeping", "Tell everyone to leave you alone", "Prioritize tasks and ask for help if needed", "Panic and give up"],
+    "answer": "Prioritize tasks and ask for help if needed",
+    "explanation": "Recognizing your limits and seeking support is a sign of emotional self-awareness and resilience."
+  },
+  {
+    "id": "eq_005",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "Your partner is upset but won't say why. How do you handle it?",
+    "choices": ["Force them to talk", "Give them space and let them know you're available", "Get upset too", "Ignore the situation"],
+    "answer": "Give them space and let them know you're available",
+    "explanation": "Respecting others' emotional boundaries while showing availability demonstrates empathy and patience."
+  },
+  {
+    "id": "eq_006",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You notice a classmate being excluded. What do you do?",
+    "choices": ["Join in the exclusion", "Ignore it — not your problem", "Invite them to join your group", "Tell the teacher"],
+    "answer": "Invite them to join your group",
+    "explanation": "Taking action to include others shows empathy and social awareness."
+  },
+  {
+    "id": "eq_007",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You fail an important exam. How do you process this?",
+    "choices": ["Blame the teacher", "Accept the result, analyze what went wrong, and plan to improve", "Never study again", "Cry and give up on school"],
+    "answer": "Accept the result, analyze what went wrong, and plan to improve",
+    "explanation": "Emotional resilience involves accepting setbacks, learning from them, and moving forward constructively."
+  },
+  {
+    "id": "eq_008",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "A friend shares exciting news, but you're having a bad day. How do you react?",
+    "choices": ["Tell them your problems instead", "Pretend to be happy", "Acknowledge their happiness genuinely despite your mood", "Get jealous"],
+    "answer": "Acknowledge their happiness genuinely despite your mood",
+    "explanation": "Being able to celebrate others' success even during personal difficulty shows high emotional maturity."
+  },
+  {
+    "id": "eq_009",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You disagree with your team's decision. What's the best approach?",
+    "choices": ["Refuse to participate", "Voice your concerns respectfully, then support the team", "Argue until they change their mind", "Complain behind their backs"],
+    "answer": "Voice your concerns respectfully, then support the team",
+    "explanation": "Balancing honest communication with team cohesion shows strong interpersonal skills."
+  },
+  {
+    "id": "eq_010",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "Someone insults you publicly. How do you respond?",
+    "choices": ["Insult them back", "Walk away calmly and address it later privately", "Break down in tears", "Laugh it off and pretend it didn't happen"],
+    "answer": "Walk away calmly and address it later privately",
+    "explanation": "Maintaining composure under pressure and choosing when and how to address conflict shows emotional control."
+  },
+  {
+    "id": "eq_011",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You're asked to help a friend, but you're busy. What do you do?",
+    "choices": ["Say yes and resent them later", "Say no rudely", "Honesty about your schedule and offer an alternative time", "Ghost them"],
+    "answer": "Honesty about your schedule and offer an alternative time",
+    "explanation": "Setting boundaries while still being helpful shows self-awareness and respect for others."
+  },
+  {
+    "id": "eq_012",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You see someone crying in public. What's your response?",
+    "choices": ["Walk past and ignore them", "Stare at them", "Approach gently and ask if they need help", "Take a photo"],
+    "answer": "Approach gently and ask if they need help",
+    "explanation": "Showing compassion and offering support to someone in distress is a key aspect of emotional intelligence."
+  },
+  {
+    "id": "eq_013",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "Your sibling borrows your things without asking. How do you handle it?",
+    "choices": ["Hide your things", "Have a calm conversation about boundaries", "Yell at them", "Tell your parents"],
+    "answer": "Have a calm conversation about boundaries",
+    "explanation": "Communicating boundaries clearly and calmly is a hallmark of emotional intelligence."
+  },
+  {
+    "id": "eq_014",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You're in a long queue and someone cuts in line. What do you do?",
+    "choices": ["Shout at them", "Say nothing and seethe inside", "Politely ask them to go to the back", "Push them"],
+    "answer": "Politely ask them to go to the back",
+    "explanation": "Standing up for yourself respectfully shows assertiveness without aggression."
+  },
+  {
+    "id": "eq_015",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "A close friend stops talking to you. What's your first step?",
+    "choices": ["Stop talking to them first", "Stalk their social media", "Reach out to understand what happened", "Tell mutual friends to intervene"],
+    "answer": "Reach out to understand what happened",
+    "explanation": "Taking initiative to understand and resolve relationship issues shows emotional maturity."
+  },
+  {
+    "id": "eq_016",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You're given a task you don't understand. What do you do?",
+    "choices": ["Pretend you understand", "Ask for clarification", "Give up immediately", "Blame whoever gave you the task"],
+    "answer": "Ask for clarification",
+    "explanation": "Asking questions and seeking understanding shows self-awareness and a willingness to learn."
+  },
+  {
+    "id": "eq_017",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "Your team wins a competition. How do you celebrate?",
+    "choices": ["Take all the credit", "Celebrate with the team and acknowledge everyone's contribution", "Say it was easy", "Feel like you deserved more"],
+    "answer": "Celebrate with the team and acknowledge everyone's contribution",
+    "explanation": "Recognizing others' contributions and sharing success shows humility and team spirit."
+  },
+  {
+    "id": "eq_018",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You're anxious about a presentation. How do you manage it?",
+    "choices": ["Skip the presentation", "Practice, use breathing techniques, and reframe anxiety as excitement", "Panic and freeze", "Blame others for putting you in this position"],
+    "answer": "Practice, use breathing techniques, and reframe anxiety as excitement",
+    "explanation": "Using coping strategies and cognitive reframing shows strong emotional self-regulation."
+  },
+  {
+    "id": "eq_019",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "A stranger asks for directions. You're in a hurry. What do you do?",
+    "choices": ["Ignore them", "Lie and give wrong directions", "Briefly give directions and wish them well", "Get annoyed"],
+    "answer": "Briefly give directions and wish them well",
+    "explanation": "Balancing your own needs with kindness to others shows social awareness and empathy."
+  },
+  {
+    "id": "eq_020",
+    "type": "EQ",
+    "difficulty": "Medium",
+    "question": "You realize you made a mistake that affected others. What's the right response?",
+    "choices": ["Hide the mistake", "Apologize sincerely and take steps to fix it", "Blame someone else", "Pretend it didn't happen"],
+    "answer": "Apologize sincerely and take steps to fix it",
+    "explanation": "Taking responsibility for mistakes and making amends is a core component of emotional intelligence."
+  }
+]

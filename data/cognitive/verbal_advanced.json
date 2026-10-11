@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vrb_adv_001",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "Which word is closest in meaning to 'ephemeral'?",
+    "choices": ["Eternal", "Fleeting", "Powerful", "Mysterious"],
+    "answer": "Fleeting",
+    "explanation": "Ephemeral means lasting for a very short time, synonymous with fleeting."
+  },
+  {
+    "id": "vrb_adv_002",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "What does 'sesquipedalian' describe?",
+    "choices": ["A tall person", "A word-lover", "Long-worded", "A type of dance"],
+    "answer": "Long-worded",
+    "explanation": "Sesquipedalian means characterized by long words; long-worded."
+  },
+  {
+    "id": "vrb_adv_003",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "Complete: Painter is to Canvas as Sculptor is to ___",
+    "choices": ["Gallery", "Clay", "Chisel", "Statue"],
+    "answer": "Clay",
+    "explanation": "A painter works on canvas; a sculptor works with clay (or stone/metal)."
+  },
+  {
+    "id": "vrb_adv_004",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "Which word is an antonym of 'gregarious'?",
+    "choices": ["Sociable", "Solitary", "Cheerful", "Outgoing"],
+    "answer": "Solitary",
+    "explanation": "Gregarious means fond of company; sociable. Solitary is its antonym."
+  },
+  {
+    "id": "vrb_adv_005",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "What does the phrase 'the best of both worlds' mean?",
+    "choices": ["Having two planets", "Enjoying advantages of two different situations", "Being confused", "Living abroad"],
+    "answer": "Enjoying advantages of two different situations",
+    "explanation": "This idiom means enjoying the advantages of two very different things at the same time."
+  },
+  {
+    "id": "vrb_adv_006",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "Which sentence contains a malapropism?",
+    "choices": ["She opened the door", "He opened his mouth and a civil war broke out", "The cat sat down", "She read the book"],
+    "answer": "He opened his mouth and a civil war broke out",
+    "explanation": "A malapropism is the mistaken use of a word in place of a similar-sounding one. The intended phrase was 'a civil word.'"
+  },
+  {
+    "id": "vrb_adv_007",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "What does 'obfuscate' mean?",
+    "choices": ["Clarify", "Confuse or obscure", "Illuminate", "Accelerate"],
+    "answer": "Confuse or obscure",
+    "explanation": "Obfuscate means to render obscure, unclear, or unintelligible."
+  },
+  {
+    "id": "vrb_adv_008",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "Which word does not belong: cacophony, symphony, harmony, concord?",
+    "choices": ["Cacophony", "Symphony", "Harmony", "Concord"],
+    "answer": "Cacophony",
+    "explanation": "Symphony, harmony, and concord all relate to pleasant, agreeable sounds or agreement. Cacophony means a harsh, discordant mixture of sounds."
+  },
+  {
+    "id": "vrb_adv_009",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "What is the meaning of 'sycophant'?",
+    "choices": ["A rebel", "A flatterer", "A scholar", "A leader"],
+    "answer": "A flatterer",
+    "explanation": "A sycophant is a person who acts obsequiously toward someone important in order to gain advantage; a flatterer."
+  },
+  {
+    "id": "vrb_adv_010",
+    "type": "Verbal",
+    "difficulty": "Advanced",
+    "question": "In rhetoric, what is 'irony'?",
+    "choices": ["Exaggeration", "Saying the opposite of what is meant", "Repetition", "Comparison using like or as"],
+    "answer": "Saying the opposite of what is meant",
+    "explanation": "Verbal irony occurs when someone says something but means the opposite, often for humorous or emphatic effect."
+  }
+]
